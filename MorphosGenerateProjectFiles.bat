@@ -1,0 +1,1 @@
+GenerateProjectFiles.bat -project=%~dp0Morphos\Morphos.uproject

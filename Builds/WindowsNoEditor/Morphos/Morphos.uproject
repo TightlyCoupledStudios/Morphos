@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1D55554E-46FD-D66D-6D8D-75B08578EBC5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Morphos",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
