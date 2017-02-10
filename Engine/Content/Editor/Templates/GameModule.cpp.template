@@ -1,0 +1,5 @@
+%COPYRIGHT_LINE%
+
+#include "%MODULE_NAME%.h"
+
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, %MODULE_NAME%, "%GAME_NAME%" );

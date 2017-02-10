@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-01-06 14:00+0000\n"
+"PO-Revision-Date: 2017-01-06 14:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	Actor
+#. SourceLocation:	From metadata for key ShortTooltip of member Actor in None
+msgctxt "UObjectShortTooltips,Actor"
+msgid "An Actor is an object that can be placed or spawned in the world."
+msgstr "Actor是一个可以在世界中放置或生成的对象。"
+
+#. Key:	ActorComponent
+#. SourceLocation:	From metadata for key ShortTooltip of member ActorComponent in None
+msgctxt "UObjectShortTooltips,ActorComponent"
+msgid "An ActorComponent is a reusable component that can be added to any actor."
+msgstr "角色组件（ActorComponent）是一种可重用的组件（Component），能给被加到任意一个角色（Actor）上"
+
+#. Key:	Character
+#. SourceLocation:	From metadata for key ShortTooltip of member Character in None
+msgctxt "UObjectShortTooltips,Character"
+msgid "A character is a type of Pawn that includes the ability to walk around."
+msgstr "Character 是 Pawn 的一种类型，增加了可以来回走动的能力"
+
+#. Key:	Pawn
+#. SourceLocation:	From metadata for key ShortTooltip of member Pawn in None
+msgctxt "UObjectShortTooltips,Pawn"
+msgid "A Pawn is an actor that can be 'possessed' and receieve input from a controller."
+msgstr "Pawn 是一种可以“被支配（Possessed）”的角色（Actor）类型，并能够从控制器（controller）接受输入信息。"
+
+#. Key:	PlayerController
+#. SourceLocation:	From metadata for key ShortTooltip of member PlayerController in None
+msgctxt "UObjectShortTooltips,PlayerController"
+msgid "A Player Controller is an actor responsible for controlling a Pawn used by the player."
+msgstr "玩家控制器（PlayerController）是一种负责控制该玩家使用的人形角色（Pawn）的角色（Actor）。"
+
+#. Key:	SceneComponent
+#. SourceLocation:	From metadata for key ShortTooltip of member SceneComponent in None
+msgctxt "UObjectShortTooltips,SceneComponent"
+msgid "A Scene Component is a component that has a scene transform and can be attached to other scene components."
+msgstr "场景组件（SceneComponent）是组件（Component）的一种，能够进行场景变换并可以被附加到其他场景组件。"
+
+#. Key:	Actor
+#. SourceLocation:	From metadata for key ToolTip of member Actor in None
+msgctxt "UObjectToolTips,Actor"
+msgid "Actor is the base class for an Object that can be placed or spawned in a level.\nActors may contain a collection of ActorComponents, which can be used to control how actors move, how they are rendered, etc.\nThe other main function of an Actor is the replication of properties and function calls across the network during play.\n\n@see https://docs.unrealengine.com/latest/INT/Programming/UnrealArchitecture/Actors/\n@see UActorComponent"
+msgstr "Actor 是一种可以在场景中放置，或者在场景中实时生成的对象。\nActor 中可能会包含一组 ActorComponent，这些组件将会控制 Actor 如何移动、如何渲染等。\nActor 的另一个主要功能是能够在游戏过程中完成网络上的变量同步和函数调用。\n\n@see https://docs.unrealengine.com/latest/INT/Programming/UnrealArchitecture/Actors/\n@see UActorComponent"
+
+#. Key:	Character
+#. SourceLocation:	From metadata for key ToolTip of member Character in None
+msgctxt "UObjectToolTips,Character"
+msgid "Characters are Pawns that have a mesh, collision, and built-in movement logic.\nThey are responsible for all physical interaction between the player or AI and the world, and also implement basic networking and input models.\nThey are designed for a vertically-oriented player representation that can walk, jump, fly, and swim through the world using CharacterMovementComponent.\n\n@see APawn, UCharacterMovementComponent\n@see https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Pawn/Character/"
+msgstr "Character 是 一种 Pawn，具有网格模型、碰撞以及内建的移动逻辑。\n它们为玩家角色或者 AI 角色和世界的物理交互工作，并实现了基础的网络功能和输入模式。\n它们是被设计为表现一个站立的玩家角色，能够通过使用 CharacterMovementComponent，在世界中行走、跳跃、飞行、游泳。\n\n@see APawn, UCharacterMovementComponent\n@see https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Pawn/Character/"
+
+#. Key:	PlayerStart
+#. SourceLocation:	From metadata for key ToolTip of member PlayerStart in None
+msgctxt "UObjectToolTips,PlayerStart"
+msgid "This class indicates a location where a player can spawn when the game begins\n\n@see https://docs.unrealengine.com/latest/INT/Engine/Actors/PlayerStart/"
+msgstr "这个类表示游戏启动时玩家的初始位置\n\n@see https://docs.unrealengine.com/latest/INT/Engine/Actors/PlayerStart/"
+
+#. Key:	StaticMeshActor
+#. SourceLocation:	From metadata for key ToolTip of member StaticMeshActor in None
+msgctxt "UObjectToolTips,StaticMeshActor"
+msgid "StaticMeshActor is an instance of a UStaticMesh in the world.\nStatic meshes are geometry that do not animate or otherwise deform, and are more efficient to render than other types of geometry.\nStatic meshes dragged into the level from the Content Browser are automatically converted to StaticMeshActors.\n\n@see https://docs.unrealengine.com/latest/INT/Engine/Actors/StaticMeshActor/\n@see UStaticMesh"
+msgstr "StaticMeshActor 是 UStaticMesh 在世界场景中的实例。\n静态网格物体是一种没有动画，或不能以任何其他形式变化的几何体，并且比其他类型的几何体更有效率。\n静态网格物体可以从内容浏览器中直接拖拽到场景中，并且会自动转换成 StaticMeshActors。\n\n@see https://docs.unrealengine.com/latest/INT/Engine/Actors/StaticMeshActor/index.html\n@see UStaticMesh"
+
+#. Key:	TriggerBox
+#. SourceLocation:	From metadata for key ToolTip of member TriggerBox in None
+msgctxt "UObjectToolTips,TriggerBox"
+msgid "A box shaped trigger, used to generate overlap events in the level"
+msgstr "盒子形状的触发器，用于在场景中生成位置触发事件"
+
+#. Key:	TriggerSphere
+#. SourceLocation:	From metadata for key ToolTip of member TriggerSphere in None
+msgctxt "UObjectToolTips,TriggerSphere"
+msgid "A sphere shaped trigger, used to generate overlap events in the level"
+msgstr "球形的触发器，用于在场景中生成位置触发事件"
+

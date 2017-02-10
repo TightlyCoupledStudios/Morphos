@@ -1,0 +1,26 @@
+%COPYRIGHT_LINE%
+
+#include "%MODULE_INCLUDE_PATH%"
+// Includes for audio dsp helper classes
+#include "%UNPREFIXED_CLASS_NAME%.h"
+%ADDITIONAL_INCLUDE_DIRECTIVES%
+
+// ========================================================================
+// %PREFIXED_CLASS_NAME% Implementation
+// ========================================================================
+
+void %PREFIXED_CLASS_NAME%::Init(const FSoundEffectSourceInitData& InSampleRate)
+{
+	// Initialize any state here...
+}
+
+void %PREFIXED_CLASS_NAME%::OnProcessAudio(const FSoundEffectSourceInputData& InData, FSoundEffectSourceOutputData& OutData)
+{
+	// Audio thread... Do not query game state.
+
+	// Get current effect settings from presets
+	F%UNPREFIXED_CLASS_NAME%Settings* Settings = (F%UNPREFIXED_CLASS_NAME%Settings*)InData.PresetData;
+
+}
+
+%ADDITIONAL_MEMBER_DEFINITIONS%

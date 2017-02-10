@@ -1,0 +1,358 @@
+{
+	"TestPlanArray": [
+		{
+			"TestPlanProperties":
+			{
+				"testPlanName": "ComputeNormal_Mikkt",
+				"action": "Import",
+				"lodIndex": 0,
+				"bDeleteFolderAssets": true,
+				"expectedResult": [
+					{
+						"expectedPresetsType": "Created_Skeletalmesh_Number",
+						"expectedPresetsDataInteger": [ 1 ],
+						"expectedPresetsDataFloat": [],
+						"expectedPresetsDataDouble": [],
+						"expectedPresetsDataString": []
+					},
+					{
+						"expectedPresetsType": "Vertex_Number_Lod",
+						"expectedPresetsDataInteger": [ 0, 120 ],
+						"expectedPresetsDataFloat": [],
+						"expectedPresetsDataDouble": [],
+						"expectedPresetsDataString": []
+					},
+					{
+						"expectedPresetsType": "Mesh_LOD_Section_Triangle_Number",
+						"expectedPresetsDataInteger": [ 0, 0, 60 ],
+						"expectedPresetsDataFloat": [],
+						"expectedPresetsDataDouble": [],
+						"expectedPresetsDataString": []
+					}
+				],
+				"importUI": "FbxImportUI'/Engine/Transient.FbxImportUI_11'"
+			},
+			"/Script/UnrealEd.FbxImportUI":
+			{
+				"bIsObjImport": false,
+				"originalImportType": "FBXIT_StaticMesh",
+				"meshTypeToImport": "FBXIT_StaticMesh",
+				"bOverrideFullName": true,
+				"bConvertScene": true,
+				"bImportAsSkeletal": true,
+				"bImportMesh": true,
+				"bCombineMeshes": false,
+				"skeleton": "None",
+				"bCreatePhysicsAsset": false,
+				"physicsAsset": "None",
+				"bImportAnimations": true,
+				"animationName": "",
+				"bImportRigidMesh": false,
+				"bImportMaterials": true,
+				"bImportTextures": true,
+				"staticMeshImportData": "FbxStaticMeshImportData'/Engine/Transient.FbxImportUI_11:StaticMeshImportData'",
+				"skeletalMeshImportData": "FbxSkeletalMeshImportData'/Engine/Transient.FbxImportUI_11:SkeletalMeshImportData'",
+				"animSequenceImportData": "FbxAnimSequenceImportData'/Engine/Transient.FbxImportUI_11:AnimSequenceImportData'",
+				"textureImportData": "FbxTextureImportData'/Engine/Transient.FbxImportUI_11:TextureImportData'"
+			},
+			"/Script/UnrealEd.FbxStaticMeshImportData":
+			{
+				"staticMeshLODGroup": "None",
+				"vertexColorImportOption": "Replace",
+				"vertexOverrideColor":
+				{
+					"b": 255,
+					"g": 255,
+					"r": 255,
+					"a": 255
+				},
+				"bRemoveDegenerates": true,
+				"bBuildAdjacencyBuffer": true,
+				"bBuildReversedIndexBuffer": true,
+				"bGenerateLightmapUVs": true,
+				"bOneConvexHullPerUCX": true,
+				"bAutoGenerateCollision": true,
+				"bTransformVertexToAbsolute": true,
+				"bBakePivotInVertex": false,
+				"bImportMeshLODs": false,
+				"normalImportMethod": "FBXNIM_ImportNormals",
+				"normalGenerationMethod": "MikkTSpace",
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			},
+			"/Script/UnrealEd.FbxSkeletalMeshImportData":
+			{
+				"bUpdateSkeletonReferencePose": false,
+				"bUseT0AsRefPose": false,
+				"bPreserveSmoothingGroups": true,
+				"bImportMeshesInBoneHierarchy": true,
+				"bImportMorphTargets": true,
+				"bKeepOverlappingVertices": false,
+				"bTransformVertexToAbsolute": true,
+				"bBakePivotInVertex": false,
+				"bImportMeshLODs": true,
+				"normalImportMethod": "FBXNIM_ComputeNormals",
+				"normalGenerationMethod": "MikkTSpace",
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			},
+			"/Script/UnrealEd.FbxAnimSequenceImportData":
+			{
+				"animationLength": "FBXALIT_ExportedTime",
+				"frameImportRange":
+				{
+					"min": 0,
+					"max": 0
+				},
+				"bUseDefaultSampleRate": false,
+				"sourceAnimationName": "",
+				"bImportCustomAttribute": true,
+				"bSetMaterialDriveParameterOnCustomAttribute": false,
+				"bPreserveLocalTransform": false,
+				"bDeleteExistingMorphTargetCurves": false,
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			},
+			"/Script/UnrealEd.FbxTextureImportData":
+			{
+				"bInvertNormalMaps": false,
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			}
+		},
+		{
+			"TestPlanProperties":
+			{
+				"testPlanName": "ComputeNormal_Mikkt_keep_overlapping_vertex",
+				"action": "Import",
+				"lodIndex": 0,
+				"bDeleteFolderAssets": true,
+				"expectedResult": [],
+				"importUI": "FbxImportUI'/Engine/Transient.FbxImportUI_12'"
+			},
+			"/Script/UnrealEd.FbxImportUI":
+			{
+				"bIsObjImport": false,
+				"originalImportType": "FBXIT_StaticMesh",
+				"meshTypeToImport": "FBXIT_StaticMesh",
+				"bOverrideFullName": true,
+				"bConvertScene": true,
+				"bImportAsSkeletal": true,
+				"bImportMesh": true,
+				"bCombineMeshes": false,
+				"skeleton": "None",
+				"bCreatePhysicsAsset": false,
+				"physicsAsset": "None",
+				"bImportAnimations": true,
+				"animationName": "",
+				"bImportRigidMesh": false,
+				"bImportMaterials": true,
+				"bImportTextures": true,
+				"staticMeshImportData": "FbxStaticMeshImportData'/Engine/Transient.FbxImportUI_12:StaticMeshImportData'",
+				"skeletalMeshImportData": "FbxSkeletalMeshImportData'/Engine/Transient.FbxImportUI_12:SkeletalMeshImportData'",
+				"animSequenceImportData": "FbxAnimSequenceImportData'/Engine/Transient.FbxImportUI_12:AnimSequenceImportData'",
+				"textureImportData": "FbxTextureImportData'/Engine/Transient.FbxImportUI_12:TextureImportData'"
+			},
+			"/Script/UnrealEd.FbxStaticMeshImportData":
+			{
+				"staticMeshLODGroup": "None",
+				"vertexColorImportOption": "Replace",
+				"vertexOverrideColor":
+				{
+					"b": 255,
+					"g": 255,
+					"r": 255,
+					"a": 255
+				},
+				"bRemoveDegenerates": true,
+				"bBuildAdjacencyBuffer": true,
+				"bBuildReversedIndexBuffer": true,
+				"bGenerateLightmapUVs": true,
+				"bOneConvexHullPerUCX": true,
+				"bAutoGenerateCollision": true,
+				"bTransformVertexToAbsolute": true,
+				"bBakePivotInVertex": false,
+				"bImportMeshLODs": false,
+				"normalImportMethod": "FBXNIM_ImportNormals",
+				"normalGenerationMethod": "MikkTSpace",
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			},
+			"/Script/UnrealEd.FbxSkeletalMeshImportData":
+			{
+				"bUpdateSkeletonReferencePose": false,
+				"bUseT0AsRefPose": false,
+				"bPreserveSmoothingGroups": true,
+				"bImportMeshesInBoneHierarchy": true,
+				"bImportMorphTargets": true,
+				"bKeepOverlappingVertices": true,
+				"bTransformVertexToAbsolute": true,
+				"bBakePivotInVertex": false,
+				"bImportMeshLODs": true,
+				"normalImportMethod": "FBXNIM_ComputeNormals",
+				"normalGenerationMethod": "MikkTSpace",
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			},
+			"/Script/UnrealEd.FbxAnimSequenceImportData":
+			{
+				"animationLength": "FBXALIT_ExportedTime",
+				"frameImportRange":
+				{
+					"min": 0,
+					"max": 0
+				},
+				"bUseDefaultSampleRate": false,
+				"sourceAnimationName": "",
+				"bImportCustomAttribute": true,
+				"bSetMaterialDriveParameterOnCustomAttribute": false,
+				"bPreserveLocalTransform": false,
+				"bDeleteExistingMorphTargetCurves": false,
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			},
+			"/Script/UnrealEd.FbxTextureImportData":
+			{
+				"bInvertNormalMaps": false,
+				"importTranslation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"importRotation":
+				{
+					"pitch": 0,
+					"yaw": 0,
+					"roll": 0
+				},
+				"importUniformScale": 1,
+				"bImportAsScene": false,
+				"bImportMaterials": false,
+				"fbxSceneImportDataReference": "None",
+				"sourceData":
+				{
+				}
+			}
+		}
+	]
+}

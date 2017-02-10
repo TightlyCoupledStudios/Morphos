@@ -1,0 +1,559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-01-06 14:00+0000\n"
+"PO-Revision-Date: 2017-01-06 14:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	Actor
+#. SourceLocation:	From metadata for key ShortTooltip of member Actor in None
+msgctxt "UObjectShortTooltips,Actor"
+msgid "An Actor is an object that can be placed or spawned in the world."
+msgstr "Actor - 액터는 월드에 배치 또는 스폰시킬 수 있는 오브젝트입니다."
+
+#. Key:	ActorComponent
+#. SourceLocation:	From metadata for key ShortTooltip of member ActorComponent in None
+msgctxt "UObjectShortTooltips,ActorComponent"
+msgid "An ActorComponent is a reusable component that can be added to any actor."
+msgstr "Actor Component - 액터 컴포넌트는 다른 액터에 추가시킬 수 있는 재사용 가능 컴포넌트입니다."
+
+#. Key:	Character
+#. SourceLocation:	From metadata for key ShortTooltip of member Character in None
+msgctxt "UObjectShortTooltips,Character"
+msgid "A character is a type of Pawn that includes the ability to walk around."
+msgstr "Character - 캐릭터는 돌아다니는 능력이 포함된 유형의 폰입니다."
+
+#. Key:	Pawn
+#. SourceLocation:	From metadata for key ShortTooltip of member Pawn in None
+msgctxt "UObjectShortTooltips,Pawn"
+msgid "A Pawn is an actor that can be 'possessed' and receieve input from a controller."
+msgstr "Pawn - 폰은 'Possess' (빙의)하여 콘트롤러에서 입력을 받을 수 있는 액터입니다."
+
+#. Key:	PlayerController
+#. SourceLocation:	From metadata for key ShortTooltip of member PlayerController in None
+msgctxt "UObjectShortTooltips,PlayerController"
+msgid "A Player Controller is an actor responsible for controlling a Pawn used by the player."
+msgstr "Player Controller - 플레이어 콘트롤러는 플레이어가 사용하는 폰 조종을 담당하는 액터입니다."
+
+#. Key:	SceneComponent
+#. SourceLocation:	From metadata for key ShortTooltip of member SceneComponent in None
+msgctxt "UObjectShortTooltips,SceneComponent"
+msgid "A Scene Component is a component that has a scene transform and can be attached to other scene components."
+msgstr "Scene Component - 씬 컴포넌트는 씬 트랜스폼을 갖는 컴포넌트로, 다른 씬 컴포넌트에 붙일 수 있습니다."
+
+#. Key:	Actor
+#. SourceLocation:	From metadata for key ToolTip of member Actor in None
+msgctxt "UObjectToolTips,Actor"
+msgid "Actor is the base class for an Object that can be placed or spawned in a level.\nActors may contain a collection of ActorComponents, which can be used to control how actors move, how they are rendered, etc.\nThe other main function of an Actor is the replication of properties and function calls across the network during play.\n\n@see https://docs.unrealengine.com/latest/INT/Programming/UnrealArchitecture/Actors/\n@see UActorComponent"
+msgstr "Actor - 액터는 레벨에 배치 또는 스폰시킬 수 있는 오브젝트의 바탕 클래스입니다.\n액터에는 ActorComponent 콜렉션이 들어있을 수 있는데, 이는 액터의 이동이나 렌더링 방식 등을 조절하는 데 사용됩니다.\n액터의 또 한가지 주요 기능은 플레이 도중 네트워크를 통해 프로퍼티와 함수 호출을 리플리케이트시키는 것입니다.\n\n@see https://docs.unrealengine.com/latest/INT/Programming/UnrealArchitecture/Actors/\n@see UActorComponent"
+
+#. Key:	AIDataProviderValue:DataBinding
+#. SourceLocation:	From metadata for key ToolTip of member DataBinding in AIDataProviderValue
+msgctxt "UObjectToolTips,AIDataProviderValue:DataBinding"
+msgid "(optional) provider for dynamic data binding"
+msgstr "Data Binding - (옵션) 다이내믹 데이터 바인딩 제공자입니다."
+
+#. Key:	AmbientSound
+#. SourceLocation:	From metadata for key ToolTip of member AmbientSound in None
+msgctxt "UObjectToolTips,AmbientSound"
+msgid "A sound actor that can be placed in a level"
+msgstr "AmbientSound - 레벨에 배치할 수 있는 사운드 액터입니다."
+
+#. Key:	AnimNode_Trail:FakeVelocity
+#. SourceLocation:	From metadata for key ToolTip of member FakeVelocity in AnimNode_Trail
+msgctxt "UObjectToolTips,AnimNode_Trail:FakeVelocity"
+msgid "'Fake' velocity applied to bones."
+msgstr "Fake Velocity - 본에 적용된 '가짜' 속도입니다."
+
+#. Key:	AnimNotifyEvent:TrackIndex
+#. SourceLocation:	From metadata for key ToolTip of member TrackIndex in AnimNotifyEvent
+msgctxt "UObjectToolTips,AnimNotifyEvent:TrackIndex"
+msgid "'Track' that the notify exists on, used for visual placement in editor and sorting priority in runtime"
+msgstr "TrackIndex - 노티파이가 존재하는 트랙으로, 에디터에서의 시각적 배치와 실행시간의 우선순위 정렬에 사용됩니다."
+
+#. Key:	AnimUpdateRateParameters:bSkipEvaluation
+#. SourceLocation:	From metadata for key ToolTip of member bSkipEvaluation in AnimUpdateRateParameters
+msgctxt "UObjectToolTips,AnimUpdateRateParameters:bSkipEvaluation"
+msgid "(This frame) animation evaluation should be skipped."
+msgstr "Skip Evaluation - (이 프레임) 애니메이션 이밸류에이션을 건너뜁니다."
+
+#. Key:	AnimUpdateRateParameters:bSkipUpdate
+#. SourceLocation:	From metadata for key ToolTip of member bSkipUpdate in AnimUpdateRateParameters
+msgctxt "UObjectToolTips,AnimUpdateRateParameters:bSkipUpdate"
+msgid "(This frame) animation update should be skipped."
+msgstr "Skip Update - (이 프레임) 애니메이션 업데이트를 건너뜁니다."
+
+#. Key:	AtmosphericFog
+#. SourceLocation:	From metadata for key ToolTip of member AtmosphericFog in None
+msgctxt "UObjectToolTips,AtmosphericFog"
+msgid "A placeable fog actor that simulates atmospheric light scattering\n@see https://docs.unrealengine.com/latest/INT/Engine/Actors/FogEffects/AtmosphericFog/index.html"
+msgstr "AtmosphericFog - 대기중의 빛의 산란 효과를 시뮬레이션하는 배치가능 포그 액터입니다.\n@see https://docs.unrealengine.com/latest/INT/Engine/Actors/FogEffects/AtmosphericFog/index.html"
+
+#. Key:	AudioComponent:VolumeMultiplier
+#. SourceLocation:	From metadata for key ToolTip of member VolumeMultiplier in AudioComponent
+msgctxt "UObjectToolTips,AudioComponent:VolumeMultiplier"
+msgid "A volume multiplier to apply to sounds generated by this component"
+msgstr "VolumeMultiplier - 이 컴포넌트에 생성되는 사운드에 적용할 볼륨 배수입니다."
+
+#. Key:	BlockingVolume
+#. SourceLocation:	From metadata for key ToolTip of member BlockingVolume in None
+msgctxt "UObjectToolTips,BlockingVolume"
+msgid "An invisible volume used to block other actors."
+msgstr "BlockingVolume - 다른 액터를 막는데 사용되는 투명 볼륨입니다."
+
+#. Key:	Blueprint:SimpleConstructionScript
+#. SourceLocation:	From metadata for key ToolTip of member SimpleConstructionScript in Blueprint
+msgctxt "UObjectToolTips,Blueprint:SimpleConstructionScript"
+msgid "'Simple' construction script - graph of components to instance"
+msgstr "Simple Construction Script - 단순한 컨스트럭션 스크립트로, 인스턴싱할 컴포넌트 그래프입니다."
+
+#. Key:	BlueprintGeneratedClass:SimpleConstructionScript
+#. SourceLocation:	From metadata for key ToolTip of member SimpleConstructionScript in BlueprintGeneratedClass
+msgctxt "UObjectToolTips,BlueprintGeneratedClass:SimpleConstructionScript"
+msgid "'Simple' construction script - graph of components to instance"
+msgstr "Simple Construction Script - 단순한 컨스트럭션 스크립트로, 인스턴싱할 컴포넌트 그래프입니다."
+
+#. Key:	BodyInstance:AngularDamping
+#. SourceLocation:	From metadata for key ToolTip of member AngularDamping in BodyInstance
+msgctxt "UObjectToolTips,BodyInstance:AngularDamping"
+msgid "'Drag' force added to reduce angular movement"
+msgstr "Angular Damping - 각 운동 감소를 위해 추가할 '인력'입니다."
+
+#. Key:	BodyInstance:LinearDamping
+#. SourceLocation:	From metadata for key ToolTip of member LinearDamping in BodyInstance
+msgctxt "UObjectToolTips,BodyInstance:LinearDamping"
+msgid "'Drag' force added to reduce linear movement"
+msgstr "Linear Damping - 선형 운동 감소를 위해 추가할 '인력'입니다."
+
+#. Key:	BoxReflectionCapture
+#. SourceLocation:	From metadata for key ToolTip of member BoxReflectionCapture in None
+msgctxt "UObjectToolTips,BoxReflectionCapture"
+msgid "Actor used to capture the scene for reflection in a box shape\n@see https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/Reflections/1_3/index.html"
+msgstr "BoxReflectionCapture - 박스 모양으로 씬의 리플렉션을 캡처하는 데 사용되는 액터입니다.\n@see https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/Reflections/1_3/index.html"
+
+#. Key:	BoxReflectionCaptureComponent
+#. SourceLocation:	From metadata for key ToolTip of member BoxReflectionCaptureComponent in None
+msgctxt "UObjectToolTips,BoxReflectionCaptureComponent"
+msgid "-> will be exported to EngineDecalClasses.h"
+msgstr "Capture Component - EngineDecalClasses.h 로 익스포트됩니다."
+
+#. Key:	PlaneReflectionCaptureComponent
+#. SourceLocation:	From metadata for key ToolTip of member PlaneReflectionCaptureComponent in None
+msgctxt "UObjectToolTips,PlaneReflectionCaptureComponent"
+msgid "-> will be exported to EngineDecalClasses.h"
+msgstr "Capture Component - EngineDecalClasses.h 로 익스포트됩니다."
+
+#. Key:	ReflectionCaptureComponent
+#. SourceLocation:	From metadata for key ToolTip of member ReflectionCaptureComponent in None
+msgctxt "UObjectToolTips,ReflectionCaptureComponent"
+msgid "-> will be exported to EngineDecalClasses.h"
+msgstr "Capture Component - EngineDecalClasses.h 로 익스포트됩니다."
+
+#. Key:	SceneCaptureComponent
+#. SourceLocation:	From metadata for key ToolTip of member SceneCaptureComponent in None
+msgctxt "UObjectToolTips,SceneCaptureComponent"
+msgid "-> will be exported to EngineDecalClasses.h"
+msgstr "Capture Component - EngineDecalClasses.h 로 익스포트됩니다."
+
+#. Key:	SphereReflectionCaptureComponent
+#. SourceLocation:	From metadata for key ToolTip of member SphereReflectionCaptureComponent in None
+msgctxt "UObjectToolTips,SphereReflectionCaptureComponent"
+msgid "-> will be exported to EngineDecalClasses.h"
+msgstr "Capture Component - EngineDecalClasses.h 로 익스포트됩니다."
+
+#. Key:	BTDecorator_ConeCheck:ConeDirection
+#. SourceLocation:	From metadata for key ToolTip of member ConeDirection in BTDecorator_ConeCheck
+msgctxt "UObjectToolTips,BTDecorator_ConeCheck:ConeDirection"
+msgid "\"None\" means \"use ConeOrigin's direction\""
+msgstr "Cone Direction - \"없음\" 은 \"ConeOrigin 의 방향을 사용\"한다는 뜻입니다."
+
+#. Key:	BTDecorator_DoesPathExist:FilterClass
+#. SourceLocation:	From metadata for key ToolTip of member FilterClass in BTDecorator_DoesPathExist
+msgctxt "UObjectToolTips,BTDecorator_DoesPathExist:FilterClass"
+msgid "\"None\" will result in default filter being used"
+msgstr "Filter Class - \"없음\" 은 기본 필터가 사용됩니다."
+
+#. Key:	BTTask_MoveTo:FilterClass
+#. SourceLocation:	From metadata for key ToolTip of member FilterClass in BTTask_MoveTo
+msgctxt "UObjectToolTips,BTTask_MoveTo:FilterClass"
+msgid "\"None\" will result in default filter being used"
+msgstr "Filter Class - \"없음\" 은 기본 필터가 사용됩니다."
+
+#. Key:	NavigationTestingActor:FilterClass
+#. SourceLocation:	From metadata for key ToolTip of member FilterClass in NavigationTestingActor
+msgctxt "UObjectToolTips,NavigationTestingActor:FilterClass"
+msgid "\"None\" will result in default filter being used"
+msgstr "Filter Class - \"없음\" 은 기본 필터가 사용됩니다."
+
+#. Key:	PawnAction_Move:FilterClass
+#. SourceLocation:	From metadata for key ToolTip of member FilterClass in PawnAction_Move
+msgctxt "UObjectToolTips,PawnAction_Move:FilterClass"
+msgid "\"None\" will result in default filter being used"
+msgstr "Filter Class - \"없음\" 은 기본 필터가 사용됩니다."
+
+#. Key:	BTFunctionLibrary:ClearBlackboardValueAsVector
+#. SourceLocation:	From metadata for key ToolTip of member ClearBlackboardValueAsVector in BTFunctionLibrary
+msgctxt "UObjectToolTips,BTFunctionLibrary:ClearBlackboardValueAsVector"
+msgid "(DEPRECATED) Use ClearBlackboardValue instead"
+msgstr "Clear Blackboard Value As Vector - (폐기됨) 대신 ClearBlackboardValue 를 사용하세요."
+
+#. Key:	CameraActor
+#. SourceLocation:	From metadata for key ToolTip of member CameraActor in None
+msgctxt "UObjectToolTips,CameraActor"
+msgid "A CameraActor is a camera viewpoint that can be placed in a level."
+msgstr "CameraActor - 레벨에 배치할 수 있는 카메라 시점입니다."
+
+#. Key:	CameraBlockingVolume
+#. SourceLocation:	From metadata for key ToolTip of member CameraBlockingVolume in None
+msgctxt "UObjectToolTips,CameraBlockingVolume"
+msgid "A volume which blocks the Camera channel by default."
+msgstr "CameraBlockingVolume - 카메라 채널을 기본적으로 막는 볼륨입니다."
+
+#. Key:	DestructibleDebrisParameters:DebrisLifetimeMin
+#. SourceLocation:	From metadata for key ToolTip of member DebrisLifetimeMin in DestructibleDebrisParameters
+msgctxt "UObjectToolTips,DestructibleDebrisParameters:DebrisLifetimeMin"
+msgid "\"Debris chunks\" (see debrisDepth, above) will be destroyed after a time (in seconds)\nseparated from non-debris chunks.  The actual lifetime is interpolated between these\ntwo bDebrisTimeout, based upon the module's LOD setting.  To disable lifetime, clear the\nbDebrisTimeout flag in the flags field.\nIf debrisLifetimeMax < debrisLifetimeMin, the mean of the two is used for both.\nDefault debrisLifetimeMin = 1.0, debrisLifetimeMax = 10.0f."
+msgstr "Debris Lifetime Min - \"디브리 청크\" (위 debrisDepth 참고, 파편 덩어리)는 파편이 아닌 \n청크에서 분리된지(x 초 후) 소멸됩니다. 실제 수명의 보간은 이 두 개의 bDebrisTimeout 값을\n모듈의 LOD 세팅에 따라 보간하여 구합니다. 수명을 비활성화시키려면,\n플래그 칸의 bDebrisTimeout 플래그를 지우면 됩니다.\n만약 debrisLifetimeMax < debrisLifetimeMin 이면, 양쪽에 두 값의 평균이 사용됩니다.\n기본값은 debrisLifetimeMin = 1.0, debrisLifetimeMax = 10.0f 입니다."
+
+#. Key:	DestructibleDebrisParameters:DebrisMaxSeparationMin
+#. SourceLocation:	From metadata for key ToolTip of member DebrisMaxSeparationMin in DestructibleDebrisParameters
+msgctxt "UObjectToolTips,DestructibleDebrisParameters:DebrisMaxSeparationMin"
+msgid "\"Debris chunks\" (see debrisDepth, above) will be destroyed if they are separated from\ntheir origin by a distance greater than maxSeparation.  The actual maxSeparation is\ninterpolated between these two values, based upon the module's LOD setting.  To disable\nmaxSeparation, clear the bDebrisMaxSeparation flag in the flags field.\nIf debrisMaxSeparationMax < debrisMaxSeparationMin, the mean of the two is used for both.\nDefault debrisMaxSeparationMin = 1.0, debrisMaxSeparationMax = 10.0f."
+msgstr "Debris Max Separation Min - \"디브리 청크\" (위 debrisDepth 참고, 파편 덩어리)는 원점에서\nmaxSeparation 보다 멀리 분리된 경우 소멸됩니다. 실제 maxSeparation 은 이 두 값에서\n모듈의 LOD 세팅에 따라 보간하여 구합니다. maxSeparation 을 비활성화시키려면,\n플래그 칸의 bDebrisMaxSeparation 플래그를 지우면 됩니다.\n만약 debrisMaxSeparationMax < debrisMaxSeparationMin 이면, 양쪽에 두 값의 평균이 사용됩니다.\n기본값은 debrisMaxSeparationMin = 1.0, debrisMaxSeparationMax = 10.0f 입니다."
+
+#. Key:	DestructibleDebrisParameters:ValidBounds
+#. SourceLocation:	From metadata for key ToolTip of member ValidBounds in DestructibleDebrisParameters
+msgctxt "UObjectToolTips,DestructibleDebrisParameters:ValidBounds"
+msgid "\"Debris chunks\" (see debrisDepth, above) will be destroyed if they leave this box.\nThe box translates with the destructible actor's initial position, but does not\nrotate or scale."
+msgstr "Valid Bounds - \"디브리 청크\" (위 debrisDepth 참고, 파편 덩어리)는 이 박스를 벗어나면\n소멸됩니다. 박스는 디스트럭터블 액터의 초기 위치와 함께 이동은 되지만,\n회전이나 스케일은 안됩니다."
+
+#. Key:	EditorExperimentalSettings:bDrawMidpointArrowsInBlueprints
+#. SourceLocation:	From metadata for key ToolTip of member bDrawMidpointArrowsInBlueprints in EditorExperimentalSettings
+msgctxt "UObjectToolTips,EditorExperimentalSettings:bDrawMidpointArrowsInBlueprints"
+msgid ", Category=Blueprints, meta=(DisplayName=\"Draw midpoint arrows in Blueprints\")"
+msgstr "Draw Midpoint Arrows In Blueprints - , Category=블루프린트, meta=(DisplayName=\"블루프린트에 중간점 화살표를 그립니다\")"
+
+#. Key:	EditorPerProjectUserSettings:bDisplayActionListItemRefIds
+#. SourceLocation:	From metadata for key ToolTip of member bDisplayActionListItemRefIds in EditorPerProjectUserSettings
+msgctxt "UObjectToolTips,EditorPerProjectUserSettings:bDisplayActionListItemRefIds"
+msgid ", Category=DeveloperTools"
+msgstr "Display Action List Item Ref Ids - , Category=DeveloperTools"
+
+#. Key:	EOrbitChainMode.EOChainMode_Link
+#. SourceLocation:	From metadata for key ToolTip of enum value EOChainMode_Link of enum EOrbitChainMode in None
+msgctxt "UObjectToolTips,EOrbitChainMode.EOChainMode_Link"
+msgid "'Break' the chain and apply the values from the previous results"
+msgstr "EOChainMode_Link - 체인을 '끊고' 예전 결과에서의 값을 적용합니다."
+
+#. Key:	ForceFeedbackEffect
+#. SourceLocation:	From metadata for key ToolTip of member ForceFeedbackEffect in None
+msgctxt "UObjectToolTips,ForceFeedbackEffect"
+msgid "A predefined force-feedback effect to be played on a controller"
+msgstr "ForceFeedbackEffect - 미리지정된 포스 피드백 이펙트를 콘트롤러에 재생합니다."
+
+#. Key:	GameplayStatics:FinishSpawningActor
+#. SourceLocation:	From metadata for key ToolTip of member FinishSpawningActor in GameplayStatics
+msgctxt "UObjectToolTips,GameplayStatics:FinishSpawningActor"
+msgid "'Finish' spawning an actor.  This will run the construction script."
+msgstr "Finish Spawning Actor - 액터 스폰을 '마무리'합니다. 컨스트럭션 스크립트를 실행합니다."
+
+#. Key:	HitResult:Time
+#. SourceLocation:	From metadata for key ToolTip of member Time in HitResult
+msgctxt "UObjectToolTips,HitResult:Time"
+msgid "'Time' of impact along trace direction (ranging from 0.0 to 1.0) if there is a hit, indicating time between TraceStart and TraceEnd.\nFor swept movement (but not queries) this may be pulled back slightly from the actual time of impact, to prevent precision problems with adjacent geometry."
+msgstr "Time - (0.0 에서 1.0 범위) 트레이스 방향으로의 임팩트 '시간' 으로, 걸린 것이 있으면 TraceStart 에서 TranceEnd 사이의 시간을 나타냅니다.\n(쿼리가 아닌) 스윕 동작의 경우 실제 임팩트 시간에서 살짝 뒤로 빠진 것일 수가 있는데, 인접 지오메트리와의 정밀도 문제를 방지하기 위함입니다."
+
+#. Key:	HUD:DebugCanvas
+#. SourceLocation:	From metadata for key ToolTip of member DebugCanvas in HUD
+msgctxt "UObjectToolTips,HUD:DebugCanvas"
+msgid "'Foreground' debug canvas, will draw in front of Slate UI."
+msgstr "Debug Canvas - '전경' 디버그 캔버스로, 슬레이트 UI 앞에 그립니다."
+
+#. Key:	K2Node_SetVariableOnPersistentFrame
+#. SourceLocation:	From metadata for key ToolTip of member K2Node_SetVariableOnPersistentFrame in None
+msgctxt "UObjectToolTips,K2Node_SetVariableOnPersistentFrame"
+msgid "*     FOR INTERNAL USAGE ONLY!"
+msgstr "Set Variable On Persistent Frame - *     내부 사용 전용입니다!"
+
+#. Key:	KismetArrayLibrary:Array_Clear
+#. SourceLocation:	From metadata for key ToolTip of member Array_Clear in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Clear"
+msgid "*Clear an array, removes all content\n*\n*@param        TargetArray             The array to clear"
+msgstr "Clear\n*배열을 비워, 내용물을 모두 제거합니다\n*\n*@param        TargetArray             비울 배열"
+
+#. Key:	KismetArrayLibrary:Array_Contains
+#. SourceLocation:	From metadata for key ToolTip of member Array_Contains in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Contains"
+msgid "*Returns true if the array contains the given item\n*\n*@param        TargetArray             The array to search for the item\n*@param        ItemToFind              The item to look for\n*@return       True if the item was found within the array"
+msgstr "Array_Contains\n*배열에 주어진 아이템이 있으면 true 를 반환합니다.\n*\n*@param        TargetArray             아이템을 검색할 배열\n*@param        ItemToFind              찾을 아이템\n*@return       배열에서 아이템을 찾았으면 True"
+
+#. Key:	KismetArrayLibrary:Array_Find
+#. SourceLocation:	From metadata for key ToolTip of member Array_Find in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Find"
+msgid "*Finds the index of the first instance of the item within the array\n*\n*@param        TargetArray             The array to search for the item\n*@param        ItemToFind              The item to look for\n*@return       The index the item was found at, or -1 if not found"
+msgstr "Array_Find\n*배열 내 첫 번째 등장하는 아이템 인덱스를 찾습니다.\n*\n*@param        TargetArray             아이템을 검색할 배열\n*@param        ItemToFind              찾을 아이템\n*@return       아이템을 찾은 인덱스, 찾지 못했으면 -1"
+
+#. Key:	KismetArrayLibrary:Array_Get
+#. SourceLocation:	From metadata for key ToolTip of member Array_Get in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Get"
+msgid "*Given an array and an index, returns the item found at that index\n*\n*@param        TargetArray             The array to get an item from\n*@param        Index                   The index in the array to get an item from\n*@return       The item stored at the index"
+msgstr "Array_Get\n*배열과 인덱스가 주어지면, 해당 인덱스에서 찾은 아이템을 반환합니다.\n*\n*@param        TargetArray             아이템을 구할 배열\n*@param        Index                   배열 내 아이템을 구할 인덱스\n*@return       그 인덱스에 저장된 아이템"
+
+#. Key:	KismetArrayLibrary:Array_Insert
+#. SourceLocation:	From metadata for key ToolTip of member Array_Insert in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Insert"
+msgid "*Insert item at the given index into the array.\n*\n*@param        TargetArray             The array to insert into\n*@param        NewItem                 The item to insert into the array\n*@param        Index                   The index at which to insert the item into the array"
+msgstr "Array_Insert\n*배열의 주어진 인덱스에 아이템을 삽입합니다.\n*\n*@param        TargetArray             삽입할 배열\n*@param        NewItem                 배열에 삽입할 아이템\n*@param        Index                   배열에 아이템을 삽입할 인덱스"
+
+#. Key:	KismetArrayLibrary:Array_LastIndex
+#. SourceLocation:	From metadata for key ToolTip of member Array_LastIndex in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_LastIndex"
+msgid "*Get the last valid index into an array\n*\n*@param        TargetArray             The array to perform the operation on\n*@return       The last valid index of the array"
+msgstr "Array_Last Index\n*배열 내 유효한 마지막 인덱스를 구합니다.\n*\n*@param        TargetArray             작업을 수행할 배열\n*@return       배열의 마지막 유효 인덱스"
+
+#. Key:	KismetArrayLibrary:Array_Length
+#. SourceLocation:	From metadata for key ToolTip of member Array_Length in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Length"
+msgid "*Get the number of items in an array\n*\n*@param        TargetArray             The array to get the length of\n*@return       The length of the array"
+msgstr "Array_Length\n*배열 내 아이템 갯수를 구합니다.\n*\n*@param        TargetArray             길이를 구할 배열\n*@return       배열의 길이"
+
+#. Key:	KismetArrayLibrary:Array_Remove
+#. SourceLocation:	From metadata for key ToolTip of member Array_Remove in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Remove"
+msgid "*Remove item at the given index from the array.\n*\n*@param        TargetArray             The array to remove from\n*@param        IndexToRemove   The index into the array to remove from"
+msgstr "Array_Remove\n*배열에서 주어진 인덱스의 아이템을 제거합니다.\n*\n*@param        TargetArray             제거 대상 배열\n*@param        IndexToRemove   배열에서 제거할 아이템의 인덱스"
+
+#. Key:	KismetArrayLibrary:Array_RemoveItem
+#. SourceLocation:	From metadata for key ToolTip of member Array_RemoveItem in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_RemoveItem"
+msgid "*Remove all instances of item from array.\n*\n*@param        TargetArray             The array to remove from\n*@param        Item                    The item to remove from the array\n*@return       True if one or more items were removed"
+msgstr "Array_Remove Item\n*배열에서 찾은 아이템 인스턴스 전부를 제거합니다.\n*\n*@param        TargetArray             제거 대상 배열\n*@param        Item                    배열에서 제거할 아이템\n*@return       아이템을 하나 이상 제거했으면 True"
+
+#. Key:	KismetArrayLibrary:Array_Resize
+#. SourceLocation:	From metadata for key ToolTip of member Array_Resize in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Resize"
+msgid "*Resize Array to specified size.\n*\n*@param        TargetArray             The array to resize\n*@param        Size                    The new size of the array"
+msgstr "Array_Resize\n*배열을 지정된 크기로 조정합니다.\n*\n*@param        TargetArray             크기조정할 배열\n*@param        Size                    배열의 새 크기"
+
+#. Key:	KismetArrayLibrary:Array_Set
+#. SourceLocation:	From metadata for key ToolTip of member Array_Set in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:Array_Set"
+msgid "*Given an array and an index, assigns the item to that array element\n*\n*@param        TargetArray             The array to perform the operation on\n*@param        Index                   The index to assign the item to\n*@param        Item                    The item to assign to the index of the array\n*@param        bSizeToFit              If true, the array will expand if Index is greater than the current size of the array"
+msgstr "Array_Set\n*배열과 인덱스가 주어지면, 아이템을 그 배열 요소에 할당합니다.\n*\n*@param        TargetArray             작업을 수행할 배열\n*@param        Index                   아이템을 할당할 인덱스\n*@param        Item                    배열의 인덱스에 할당할 아이템\n*@param        bSizeToFit              true 면 인덱스가 현재 배열 크기보다 큰 경우 배열을 확장"
+
+#. Key:	KismetArrayLibrary:FilterArray
+#. SourceLocation:	From metadata for key ToolTip of member FilterArray in KismetArrayLibrary
+msgctxt "UObjectToolTips,KismetArrayLibrary:FilterArray"
+msgid "*Filter an array based on a Class derived from Actor.\n*\n*@param        TargetArray             The array to filter from\n*@param        FilterClass             The Actor sub-class type that acts as the filter, only objects derived from it will be returned.\n*@return       An array containing only those objects which are derived from the class specified."
+msgstr "Filter Array\n*Actor 에서 파생된 Class 에 따라 배열을 필터링합니다.\n*\n*@param        TargetArray             필터를 적용할 배열\n*@param        FilterClass             필터 역할을 할 Actor 서브클래스 유형으로, 거기서 파생된 오브젝트만 반환됩니다.\n*@return       지정된 클래스에서 파생된 오브젝트만 들어있는 배열."
+
+#. Key:	KismetStringLibrary:IsNumeric
+#. SourceLocation:	From metadata for key ToolTip of member IsNumeric in KismetStringLibrary
+msgctxt "UObjectToolTips,KismetStringLibrary:IsNumeric"
+msgid "* Checks if a string contains only numeric characters\n* @param       SourceString    The string to check\n* @return true if the string only contains numeric characters"
+msgstr "Is Numeric\n\\v* 스트링에 숫자만 들어있는지 검사합니다.\n* @param       SourceString    검사할 스트링\n* @return true, 스트링에 숫자만 들어있는 경우"
+
+#. Key:	KismetStringLibrary:LeftPad
+#. SourceLocation:	From metadata for key ToolTip of member LeftPad in KismetStringLibrary
+msgctxt "UObjectToolTips,KismetStringLibrary:LeftPad"
+msgid "* Pad the left of this string for a specified number of characters\n* @param       SourceString    The string to pad\n* @param       ChCount                 Amount of padding required\n* @return      The padded string"
+msgstr "Left Pad\n* 이 스트링의 왼쪽에 지정된 글자만큼 여백을 메워넣습니다\n* @param       SourceString    여백을 메워넣을 스트링\n* @param       ChCount                 필요한 여백 양\n* @return      여백을 메워넣은 스트링"
+
+#. Key:	KismetStringLibrary:RightPad
+#. SourceLocation:	From metadata for key ToolTip of member RightPad in KismetStringLibrary
+msgctxt "UObjectToolTips,KismetStringLibrary:RightPad"
+msgid "* Pad the right of this string for a specified number of characters\n* @param       SourceString    The string to pad\n* @param       ChCount                 Amount of padding required\n* @return      The padded string"
+msgstr "Right Pad\n* 이 스트링의 오른쪽에 지정된 글자만큼 여백을 메워넣습니다\n* @param       SourceString    여백을 메워넣을 스트링\n* @param       ChCount                 필요한 여백 양\n* @return      여백을 메워넣은 스트링"
+
+#. Key:	LightmassLightSettings:IndirectLightingSaturation
+#. SourceLocation:	From metadata for key ToolTip of member IndirectLightingSaturation in LightmassLightSettings
+msgctxt "UObjectToolTips,LightmassLightSettings:IndirectLightingSaturation"
+msgid "0 will be completely desaturated, 1 will be unchanged"
+msgstr "Indirect Lighting Saturation - 0 은 완전 탈색, 1 은 변하지 않습니다."
+
+#. Key:	MaterialExpressionReflectionVectorWS:bNormalizeCustomWorldNormal
+#. SourceLocation:	From metadata for key ToolTip of member bNormalizeCustomWorldNormal in MaterialExpressionReflectionVectorWS
+msgctxt "UObjectToolTips,MaterialExpressionReflectionVectorWS:bNormalizeCustomWorldNormal"
+msgid "(true): The specified world normal will be normalized. (false): WorldNormal will just be used as is, faster but possible artifacts if normal length isn't 1"
+msgstr "Normalize Custom World Normal - (true): 지정된 월드 노멀이 정규화됩니다. (false): WorldNormal 이 그대로 사용되며, 더 빠르지만 노멀 길이가 1 이 아닌 경우 부작용이 있을 수 있습니다."
+
+#. Key:	NavModifierVolume
+#. SourceLocation:	From metadata for key ToolTip of member NavModifierVolume in None
+msgctxt "UObjectToolTips,NavModifierVolume"
+msgid "Allows applying selected AreaClass to navmesh, using Volume's shape"
+msgstr "NavModifierVolume - 볼륨의 모양을 사용해서 선택된 AreaClass 를 내비메시에 적용할 수 있도록 합니다."
+
+#. Key:	NiagaraScript:Source
+#. SourceLocation:	From metadata for key ToolTip of member Source in NiagaraScript
+msgctxt "UObjectToolTips,NiagaraScript:Source"
+msgid "'Source' data/graphs for this script"
+msgstr "Source - 이 스크립트에 대한 '소스' 데이터/그래프 입니다."
+
+#. Key:	ParticleEmitter:LODLevels
+#. SourceLocation:	From metadata for key ToolTip of member LODLevels in ParticleEmitter
+msgctxt "UObjectToolTips,ParticleEmitter:LODLevels"
+msgid "'Private' data - not required by the editor"
+msgstr "LOD Levels - '프라이빗' 데이터로, 에디터에 필요치 않습니다."
+
+#. Key:	ParticleEmitter:LODLevels.LODLevels
+#. SourceLocation:	From metadata for key ToolTip of member LODLevels in ParticleEmitter:LODLevels
+msgctxt "UObjectToolTips,ParticleEmitter:LODLevels.LODLevels"
+msgid "'Private' data - not required by the editor"
+msgstr "LOD Levels - '프라이빗' 데이터로, 에디터에 필요치 않습니다."
+
+#. Key:	Pawn:K2_GetMovementInputVector
+#. SourceLocation:	From metadata for key ToolTip of member K2_GetMovementInputVector in Pawn
+msgctxt "UObjectToolTips,Pawn:K2_GetMovementInputVector"
+msgid "(Deprecated) Return the input vector in world space."
+msgstr "Get Movement Input Vector - (폐기됨) 입력 벡터를 월드 스페이스로 반환합니다."
+
+#. Key:	PawnMovementComponent:K2_GetInputVector
+#. SourceLocation:	From metadata for key ToolTip of member K2_GetInputVector in PawnMovementComponent
+msgctxt "UObjectToolTips,PawnMovementComponent:K2_GetInputVector"
+msgid "(Deprecated) Return the input vector in world space."
+msgstr "Get Movement Input Vector - (폐기됨) 입력 벡터를 월드 스페이스로 반환합니다."
+
+#. Key:	PhATSimOptions:bUpdateJointsFromAnimation
+#. SourceLocation:	From metadata for key ToolTip of member bUpdateJointsFromAnimation in PhATSimOptions
+msgctxt "UObjectToolTips,PhATSimOptions:bUpdateJointsFromAnimation"
+msgid "Lets you manually control the physics/animation"
+msgstr "애니메이션에서 조인트 업데이트 - 피직스/애니메이션을 수동 제어할 수 있도록 해줍니다."
+
+#. Key:	PhATSimOptions:PhysicsBlend
+#. SourceLocation:	From metadata for key ToolTip of member PhysicsBlend in PhATSimOptions
+msgctxt "UObjectToolTips,PhATSimOptions:PhysicsBlend"
+msgid "Lets you manually control the physics/animation"
+msgstr "피직스 블렌드 - 피직스/애니메이션을 수동 제어할 수 있도록 해줍니다."
+
+#. Key:	PhATSimOptions:PokeBlendTime
+#. SourceLocation:	From metadata for key ToolTip of member PokeBlendTime in PhATSimOptions
+msgctxt "UObjectToolTips,PhATSimOptions:PokeBlendTime"
+msgid "Time taken to blend from physics to animation."
+msgstr "찌르기 블렌딩 시간 - 피직스에서 애니메이션으로 블렌딩하는 데 걸리는 시간입니다."
+
+#. Key:	PhATSimOptions:PokePauseTime
+#. SourceLocation:	From metadata for key ToolTip of member PokePauseTime in PhATSimOptions
+msgctxt "UObjectToolTips,PhATSimOptions:PokePauseTime"
+msgid "Time between poking ragdoll and starting to blend back."
+msgstr "찌르기 일시정지 시간 - 래그돌을 찔렀을 때 다시 블렌딩이 시작될 때까지의 시간입니다."
+
+#. Key:	PostProcessSettings:AmbientOcclusionIntensity
+#. SourceLocation:	From metadata for key ToolTip of member AmbientOcclusionIntensity in PostProcessSettings
+msgctxt "UObjectToolTips,PostProcessSettings:AmbientOcclusionIntensity"
+msgid "0..1 0=off/no ambient occlusion .. 1=strong ambient occlusion, defines how much it affects the non direct lighting after base pass"
+msgstr "Ambient Occlusion Intensity - 0 = 꺼짐 / 앰비언트 오클루전 없음 .. 1 = 강한 앰비언트 오클루전, 베이스 패스 이후 비직사광에 영향을 끼치는 양을 정의합니다."
+
+#. Key:	PostProcessSettings:AmbientOcclusionStaticFraction
+#. SourceLocation:	From metadata for key ToolTip of member AmbientOcclusionStaticFraction in PostProcessSettings
+msgctxt "UObjectToolTips,PostProcessSettings:AmbientOcclusionStaticFraction"
+msgid "0..1 0=no effect on static lighting .. 1=AO affects the stat lighting, 0 is free meaning no extra rendering pass"
+msgstr "Ambient Occlusion Static Fraction - 0 = 스태틱 라이팅에 영향 없음 .. 1 = AO 가 스태틱 라이팅에 영향을 끼침, 0 은 별도의 렌더링 패스 없이 무료입니다."
+
+#. Key:	PostProcessSettings:GrainIntensity
+#. SourceLocation:	From metadata for key ToolTip of member GrainIntensity in PostProcessSettings
+msgctxt "UObjectToolTips,PostProcessSettings:GrainIntensity"
+msgid "0..1 grain intensity"
+msgstr "Grain Intensity - 0..1 범위의 알갱이 크기입니다."
+
+#. Key:	PostProcessSettings:GrainJitter
+#. SourceLocation:	From metadata for key ToolTip of member GrainJitter in PostProcessSettings
+msgctxt "UObjectToolTips,PostProcessSettings:GrainJitter"
+msgid "0..1 grain jitter"
+msgstr "Grain Jitter - 0..1 범위의 알갱이 떨림입니다."
+
+#. Key:	PostProcessSettings:VignetteIntensity
+#. SourceLocation:	From metadata for key ToolTip of member VignetteIntensity in PostProcessSettings
+msgctxt "UObjectToolTips,PostProcessSettings:VignetteIntensity"
+msgid "0..1 0=off/no vignette .. 1=strong vignette"
+msgstr "Vignette Intensity - 0 = 꺼짐 / 비녜트 없음 .. 1 = 강한 비녜트"
+
+#. Key:	PrimitiveComponent:WakeRigidBody
+#. SourceLocation:	From metadata for key ToolTip of member WakeRigidBody in PrimitiveComponent
+msgctxt "UObjectToolTips,PrimitiveComponent:WakeRigidBody"
+msgid "'Wake' physics simulation for a single body.\n@param  BoneName        If a SkeletalMeshComponent, name of body to wake. 'None' indicates root body."
+msgstr "WakeRigidBody - 단일 바디에 대한 피직스 시뮬레이션을 깨웁니다.\n@param  BoneName        SkeletalMeshComponent 가 존재하는 경우, 깨울 바디 이름입니다. 'None' 은 루트 바디를 가리킵니다."
+
+#. Key:	PrimitiveStats:LightsTotal
+#. SourceLocation:	From metadata for key ToolTip of member LightsTotal in PrimitiveStats
+msgctxt "UObjectToolTips,PrimitiveStats:LightsTotal"
+msgid "(Avg OL + Avg LM) / Count"
+msgstr "LightsTotal - (Avg OL + Avg LM) / Count"
+
+#. Key:	ProceduralFoliageBlockingVolume
+#. SourceLocation:	From metadata for key ToolTip of member ProceduralFoliageBlockingVolume in None
+msgctxt "UObjectToolTips,ProceduralFoliageBlockingVolume"
+msgid "An invisible volume used to block ProceduralFoliage instances from being spawned."
+msgstr "ProceduralFoliageBlockingVolume - 프로시저럴 폴리지 인스턴스의 스폰을 막는데 쓰이는 투명 볼륨입니다."
+
+#. Key:	SCS_Node:bIsFalseRoot
+#. SourceLocation:	From metadata for key ToolTip of member bIsFalseRoot in SCS_Node
+msgctxt "UObjectToolTips,SCS_Node:bIsFalseRoot"
+msgid "(DEPRECATED)"
+msgstr "Is False Root - (폐기됨)"
+
+#. Key:	SCS_Node:bIsNative
+#. SourceLocation:	From metadata for key ToolTip of member bIsNative in SCS_Node
+msgctxt "UObjectToolTips,SCS_Node:bIsNative"
+msgid "(DEPRECATED) Indicates if this is a native component or not"
+msgstr "Is Native - (폐기됨) 네이티브 컴포넌트인지 아닌지를 나타냅니다."
+
+#. Key:	SCS_Node:bVariableNameAutoGenerated
+#. SourceLocation:	From metadata for key ToolTip of member bVariableNameAutoGenerated in SCS_Node
+msgctxt "UObjectToolTips,SCS_Node:bVariableNameAutoGenerated"
+msgid "(DEPRECATED) If true, the variable name was a autogenerated and is not presented to the user"
+msgstr "Variable Name Auto Generated - (폐기됨) True 면 변수 이름을 자동 생성하고 사용자에게 묻지 않습니다."
+
+#. Key:	SCS_Node:NativeComponentName
+#. SourceLocation:	From metadata for key ToolTip of member NativeComponentName in SCS_Node
+msgctxt "UObjectToolTips,SCS_Node:NativeComponentName"
+msgid "(DEPRECATED) If this is a native component, this is the name of the UActorComponent"
+msgstr "Native Component Name - 네이티브 컴포넌트인 경우, UActorComponent 의 이름입니다."
+
+#. Key:	SimpleConstructionScript:ActorComponentNodes
+#. SourceLocation:	From metadata for key ToolTip of member ActorComponentNodes in SimpleConstructionScript
+msgctxt "UObjectToolTips,SimpleConstructionScript:ActorComponentNodes"
+msgid "(DEPRECATED) Actor Component based nodes are stored here.  They cannot be in the tree hierarchy"
+msgstr "Actor Component Nodes - (폐기됨) 액터 컴포넌트 기반 노드는 여기 저장됩니다. 트리 계층구조에 속할 수 없습니다."
+
+#. Key:	SimpleConstructionScript:RootNode
+#. SourceLocation:	From metadata for key ToolTip of member RootNode in SimpleConstructionScript
+msgctxt "UObjectToolTips,SimpleConstructionScript:RootNode"
+msgid "(DEPRECATED) Root node of the construction script"
+msgstr "Root Node - (폐기됨) 컨스트럭션 스크립트의 루트 노드입니다."
+
+#. Key:	SoundNodeMixer:InputVolume
+#. SourceLocation:	From metadata for key ToolTip of member InputVolume in SoundNodeMixer
+msgctxt "UObjectToolTips,SoundNodeMixer:InputVolume"
+msgid "A volume for each input.  Automatically sized."
+msgstr "InputVolume - 각 입력에 대한 볼륨입니다. 자동으로 크기 조정됩니다."
+
+#. Key:	SphereReflectionCapture
+#. SourceLocation:	From metadata for key ToolTip of member SphereReflectionCapture in None
+msgctxt "UObjectToolTips,SphereReflectionCapture"
+msgid "Actor used to capture the scene for reflection in a sphere shape.\n@see https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/Reflections/1_4"
+msgstr "SphereReflectionCapture - 구체 모양으로 씬의 리플렉션을 캡처하는 데 사용되는 액터입니다.\n@see https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/Reflections/1_4"
+
+#. Key:	TriggerBox
+#. SourceLocation:	From metadata for key ToolTip of member TriggerBox in None
+msgctxt "UObjectToolTips,TriggerBox"
+msgid "A box shaped trigger, used to generate overlap events in the level"
+msgstr "TriggerBox - 박스 모양 트리거로, 레벨에 오버랩 이벤트 생성시 사용됩니다."
+
+#. Key:	TriggerCapsule
+#. SourceLocation:	From metadata for key ToolTip of member TriggerCapsule in None
+msgctxt "UObjectToolTips,TriggerCapsule"
+msgid "A capsule shaped trigger, used to generate overlap events in the level"
+msgstr "TriggerCapsule - 캡슐 모양 트리거로, 레벨에 오버랩 이벤트 생성시 사용됩니다."
+
+#. Key:	TriggerSphere
+#. SourceLocation:	From metadata for key ToolTip of member TriggerSphere in None
+msgctxt "UObjectToolTips,TriggerSphere"
+msgid "A sphere shaped trigger, used to generate overlap events in the level"
+msgstr "TriggerSphere - 구체 모양 트리거로, 레벨에 오버랩 이벤트 생성시 사용됩니다."
+

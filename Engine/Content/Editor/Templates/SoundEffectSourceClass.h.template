@@ -1,0 +1,62 @@
+%COPYRIGHT_LINE%
+
+#pragma once
+%BASE_CLASS_INCLUDE_DIRECTIVE%
+// Includes for audio dsp helper classes
+#include "%UNPREFIXED_CLASS_NAME%.generated.h"
+
+// ========================================================================
+// F%UNPREFIXED_CLASS_NAME%Settings
+// UStruct used to define user-exposed params for use with your effect.
+// ========================================================================
+
+USTRUCT()
+struct F%UNPREFIXED_CLASS_NAME%Settings
+{
+	GENERATED_USTRUCT_BODY()
+
+	// Define your effect parameters below...
+	
+	// Information about your parameter described here will show up in the editor as a tool-tip in the effect preset object
+	UPROPERTY(EditAnywhere, Category = SoundEffect)
+	float MyProperty;
+};
+
+// ========================================================================
+// %PREFIXED_CLASS_NAME%
+// Class which processes audio streams and uses parameters defined in the preset class.
+// ========================================================================
+
+UCLASS(%UCLASS_SPECIFIER_LIST%)
+class %CLASS_MODULE_API_MACRO%%PREFIXED_CLASS_NAME% : public %PREFIXED_BASE_CLASS_NAME%
+{
+	GENERATED_BODY()
+	
+	// Called on an audio effect at initialization on main thread before audio processing begins.
+	void Init(const FSoundEffectSourceInitData& InSampleRate) override;
+
+	// Process the input block of audio. Called on audio thread.
+	void OnProcessAudio(const FSoundEffectSourceInputData& InData, FSoundEffectSourceOutputData& OutData) override;
+};
+
+// ========================================================================
+// %PREFIXED_CLASS_NAME%Preset
+// This code exposes your preset settings and effect class to the editor.
+// Do not modify this code!
+// ========================================================================
+
+UCLASS(%UCLASS_SPECIFIER_LIST%)
+class %CLASS_MODULE_API_MACRO%%PREFIXED_CLASS_NAME%Preset : public USoundEffectSourcePreset
+{
+	GENERATED_BODY()
+	
+	void* GetSettings() override { return (void*)&Settings; }
+	uint32 GetSettingsSize() const override { return sizeof(Settings); }
+	UScriptStruct* GetSettingsStruct() const override { return F%UNPREFIXED_CLASS_NAME%Settings::StaticStruct(); }
+	UClass* GetEffectClass() const override { return %PREFIXED_CLASS_NAME%::StaticClass(); }
+	FText GetAssetActionName() const override { return NSLOCTEXT("AssetTypeActions", "AssetTypeActions_%UNPREFIXED_CLASS_NAME%Preset", "%UNPREFIXED_CLASS_NAME%Preset"); }
+
+	// %UNPREFIXED_CLASS_NAME% Preset Settings
+	UPROPERTY(EditAnywhere, Category = SoundSourceEffect)
+	F%UNPREFIXED_CLASS_NAME%Settings Settings;
+};

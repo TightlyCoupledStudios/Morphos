@@ -1,0 +1,1933 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-01-06 14:00+0000\n"
+"PO-Revision-Date: 2017-01-06 14:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	NavigationSystem:AbstractNavData
+#. SourceLocation:	From metadata for key DisplayName of member AbstractNavData in NavigationSystem
+msgctxt "UObjectDisplayNames,NavigationSystem:AbstractNavData"
+msgid "Abstract Nav Data"
+msgstr "Abstract Nav Data"
+
+#. Key:	Beam2SourceTargetMethod.PEB2STM_Actor
+#. SourceLocation:	From metadata for key DisplayName of enum value PEB2STM_Actor of enum Beam2SourceTargetMethod in None
+msgctxt "UObjectDisplayNames,Beam2SourceTargetMethod.PEB2STM_Actor"
+msgid "Actor"
+msgstr "Actor"
+
+#. Key:	Actor:AttachmentReplication
+#. SourceLocation:	From metadata for key DisplayName of member AttachmentReplication in Actor
+msgctxt "UObjectDisplayNames,Actor:AttachmentReplication"
+msgid "Attachment Replication"
+msgstr "Attachment Replication"
+
+#. Key:	Actor:AutoReceiveInput
+#. SourceLocation:	From metadata for key DisplayName of member AutoReceiveInput in Actor
+msgctxt "UObjectDisplayNames,Actor:AutoReceiveInput"
+msgid "Auto Receive Input"
+msgstr "Auto Receive Input"
+
+#. Key:	Actor:bAllowReceiveTickEventOnDedicatedServer
+#. SourceLocation:	From metadata for key DisplayName of member bAllowReceiveTickEventOnDedicatedServer in Actor
+msgctxt "UObjectDisplayNames,Actor:bAllowReceiveTickEventOnDedicatedServer"
+msgid "Allow Receive Tick Event on Dedicated Server"
+msgstr "Allow Receive Tick Event on Dedicated Server"
+
+#. Key:	Actor:bAllowTickBeforeBeginPlay
+#. SourceLocation:	From metadata for key DisplayName of member bAllowTickBeforeBeginPlay in Actor
+msgctxt "UObjectDisplayNames,Actor:bAllowTickBeforeBeginPlay"
+msgid "Allow Tick Before Begin Play"
+msgstr "Allow Tick Before Begin Play"
+
+#. Key:	Actor:bAlwaysRelevant
+#. SourceLocation:	From metadata for key DisplayName of member bAlwaysRelevant in Actor
+msgctxt "UObjectDisplayNames,Actor:bAlwaysRelevant"
+msgid "Always Relevant"
+msgstr "Always Relevant"
+
+#. Key:	Actor:bAutoDestroyWhenFinished
+#. SourceLocation:	From metadata for key DisplayName of member bAutoDestroyWhenFinished in Actor
+msgctxt "UObjectDisplayNames,Actor:bAutoDestroyWhenFinished"
+msgid "Auto Destroy when Finished"
+msgstr "Auto Destroy when Finished"
+
+#. Key:	Actor:bBlockInput
+#. SourceLocation:	From metadata for key DisplayName of member bBlockInput in Actor
+msgctxt "UObjectDisplayNames,Actor:bBlockInput"
+msgid "Block Input"
+msgstr "Block Input"
+
+#. Key:	Actor:bCanBeDamaged
+#. SourceLocation:	From metadata for key DisplayName of member bCanBeDamaged in Actor
+msgctxt "UObjectDisplayNames,Actor:bCanBeDamaged"
+msgid "Can be Damaged"
+msgstr "Can be Damaged"
+
+#. Key:	Actor:bEditable
+#. SourceLocation:	From metadata for key DisplayName of member bEditable in Actor
+msgctxt "UObjectDisplayNames,Actor:bEditable"
+msgid "Editable"
+msgstr "Editable"
+
+#. Key:	EdGraph:bEditable
+#. SourceLocation:	From metadata for key DisplayName of member bEditable in EdGraph
+msgctxt "UObjectDisplayNames,EdGraph:bEditable"
+msgid "Editable"
+msgstr "Editable"
+
+#. Key:	ParticleModule:bEditable
+#. SourceLocation:	From metadata for key DisplayName of member bEditable in ParticleModule
+msgctxt "UObjectDisplayNames,ParticleModule:bEditable"
+msgid "Editable"
+msgstr "Editable"
+
+#. Key:	ActorComponent:ReceiveTick
+#. SourceLocation:	From metadata for key DisplayName of member ReceiveTick in ActorComponent
+msgctxt "UObjectDisplayNames,ActorComponent:ReceiveTick"
+msgid "Tick"
+msgstr "Tick"
+
+#. Key:	Actor:SpriteScale
+#. SourceLocation:	From metadata for key DisplayName of member SpriteScale in Actor
+msgctxt "UObjectDisplayNames,Actor:SpriteScale"
+msgid "Editor Billboard Scale"
+msgstr "Editor Billboard Scale"
+
+#. Key:	Actor:Tags
+#. SourceLocation:	From metadata for key DisplayName of member Tags in Actor
+msgctxt "UObjectDisplayNames,Actor:Tags"
+msgid "Tags"
+msgstr "Tags"
+
+#. Key:	ParticleModuleBeamTarget
+#. SourceLocation:	From metadata for key DisplayName of member ParticleModuleBeamTarget in None
+msgctxt "UObjectDisplayNames,ParticleModuleBeamTarget"
+msgid "Target"
+msgstr "Target"
+
+#. Key:	ParticleModuleBeamTarget:Target
+#. SourceLocation:	From metadata for key DisplayName of member Target in ParticleModuleBeamTarget
+msgctxt "UObjectDisplayNames,ParticleModuleBeamTarget:Target"
+msgid "Target"
+msgstr "Target"
+
+#. Key:	ParticleModuleLocationBase
+#. SourceLocation:	From metadata for key DisplayName of member ParticleModuleLocationBase in None
+msgctxt "UObjectDisplayNames,ParticleModuleLocationBase"
+msgid "Location"
+msgstr "Location"
+
+#. Key:	ParticleModuleLocationDirect:Location
+#. SourceLocation:	From metadata for key DisplayName of member Location in ParticleModuleLocationDirect
+msgctxt "UObjectDisplayNames,ParticleModuleLocationDirect:Location"
+msgid "Location"
+msgstr "Location"
+
+#. Key:	AISense_Blueprint:UnprocessedEvents
+#. SourceLocation:	From metadata for key DisplayName of member UnprocessedEvents in AISense_Blueprint
+msgctxt "UObjectDisplayNames,AISense_Blueprint:UnprocessedEvents"
+msgid "Unprocessed Events"
+msgstr "Unprocessed Events"
+
+#. Key:	AISense_Touch:RegisteredEvents
+#. SourceLocation:	From metadata for key DisplayName of member RegisteredEvents in AISense_Touch
+msgctxt "UObjectDisplayNames,AISense_Touch:RegisteredEvents"
+msgid "Registered Events"
+msgstr "Registered Events"
+
+#. Key:	AnimationAsset
+#. SourceLocation:	From metadata for key DisplayName of member AnimationAsset in None
+msgctxt "UObjectDisplayNames,AnimationAsset"
+msgid "Animation Asset"
+msgstr "Animation Asset"
+
+#. Key:	AnimationTransitionBetweenStates:BlendMode
+#. SourceLocation:	From metadata for key DisplayName of member BlendMode in AnimationTransitionBetweenStates
+msgctxt "UObjectDisplayNames,AnimationTransitionBetweenStates:BlendMode"
+msgid "Blend Mode"
+msgstr "Blend Mode"
+
+#. Key:	SplineCurves:Rotation
+#. SourceLocation:	From metadata for key DisplayName of member Rotation in SplineCurves
+msgctxt "UObjectDisplayNames,SplineCurves:Rotation"
+msgid "Rotation"
+msgstr "Rotation"
+
+#. Key:	SplineCurves:Scale
+#. SourceLocation:	From metadata for key DisplayName of member Scale in SplineCurves
+msgctxt "UObjectDisplayNames,SplineCurves:Scale"
+msgid "Scale"
+msgstr "Scale"
+
+#. Key:	SoundTrackKey:Time
+#. SourceLocation:	From metadata for key DisplayName of member Time in SoundTrackKey
+msgctxt "UObjectDisplayNames,SoundTrackKey:Time"
+msgid "Time"
+msgstr "Time"
+
+#. Key:	AudioVolume
+#. SourceLocation:	From metadata for key DisplayName of member AudioVolume in None
+msgctxt "UObjectDisplayNames,AudioVolume"
+msgid "Audio Volume"
+msgstr "オーディオ ボリューム"
+
+#. Key:	MovieSceneAudioSection:AudioVolume
+#. SourceLocation:	From metadata for key DisplayName of member AudioVolume in MovieSceneAudioSection
+msgctxt "UObjectDisplayNames,MovieSceneAudioSection:AudioVolume"
+msgid "Audio Volume"
+msgstr "オーディオ ボリューム"
+
+#. Key:	BaseTransformGizmo:SceneComponent
+#. SourceLocation:	From metadata for key DisplayName of member SceneComponent in BaseTransformGizmo
+msgctxt "UObjectDisplayNames,BaseTransformGizmo:SceneComponent"
+msgid "Scene Component"
+msgstr "Scene Component"
+
+#. Key:	BehaviorTreeTemplateInfo:Asset
+#. SourceLocation:	From metadata for key DisplayName of member Asset in BehaviorTreeTemplateInfo
+msgctxt "UObjectDisplayNames,BehaviorTreeTemplateInfo:Asset"
+msgid "Asset"
+msgstr "Asset"
+
+#. Key:	BlockingVolume
+#. SourceLocation:	From metadata for key DisplayName of member BlockingVolume in None
+msgctxt "UObjectDisplayNames,BlockingVolume"
+msgid "Blocking Volume"
+msgstr "ブロッキング  ボリューム"
+
+#. Key:	BodyInstance:bNotifyRigidBodyCollision
+#. SourceLocation:	From metadata for key DisplayName of member bNotifyRigidBodyCollision in BodyInstance
+msgctxt "UObjectDisplayNames,BodyInstance:bNotifyRigidBodyCollision"
+msgid "Simulation Generates Hit Events"
+msgstr "Simulation Generates Hit Events"
+
+#. Key:	BodyInstance:ObjectType
+#. SourceLocation:	From metadata for key DisplayName of member ObjectType in BodyInstance
+msgctxt "UObjectDisplayNames,BodyInstance:ObjectType"
+msgid "Object Type"
+msgstr "Object Type"
+
+#. Key:	BorderSlot:HorizontalAlignment
+#. SourceLocation:	From metadata for key DisplayName of member HorizontalAlignment in BorderSlot
+msgctxt "UObjectDisplayNames,BorderSlot:HorizontalAlignment"
+msgid "Horizontal Alignment"
+msgstr "Horizontal Alignment"
+
+#. Key:	Border:SetHorizontalAlignment
+#. SourceLocation:	From metadata for key DisplayName of member SetHorizontalAlignment in Border
+msgctxt "UObjectDisplayNames,Border:SetHorizontalAlignment"
+msgid "Set Horizontal Alignment"
+msgstr "Set Horizontal Alignment"
+
+#. Key:	Border:SetVerticalAlignment
+#. SourceLocation:	From metadata for key DisplayName of member SetVerticalAlignment in Border
+msgctxt "UObjectDisplayNames,Border:SetVerticalAlignment"
+msgid "Set Vertical Alignment"
+msgstr "Set Vertical Alignment"
+
+#. Key:	Border:VerticalAlignment
+#. SourceLocation:	From metadata for key DisplayName of member VerticalAlignment in Border
+msgctxt "UObjectDisplayNames,Border:VerticalAlignment"
+msgid "Vertical Alignment"
+msgstr "Vertical Alignment"
+
+#. Key:	BuildPromotionOpenAssetSettings:SkeletalMeshAsset
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshAsset in BuildPromotionOpenAssetSettings
+msgctxt "UObjectDisplayNames,BuildPromotionOpenAssetSettings:SkeletalMeshAsset"
+msgid "Skeletal Mesh Asset"
+msgstr "Skeletal Mesh Asset"
+
+#. Key:	BuildPromotionOpenAssetSettings:StaticMeshAsset
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshAsset in BuildPromotionOpenAssetSettings
+msgctxt "UObjectDisplayNames,BuildPromotionOpenAssetSettings:StaticMeshAsset"
+msgid "Static Mesh Asset"
+msgstr "Static Mesh Asset"
+
+#. Key:	CameraBlockingVolume
+#. SourceLocation:	From metadata for key DisplayName of member CameraBlockingVolume in None
+msgctxt "UObjectDisplayNames,CameraBlockingVolume"
+msgid "Camera Blocking Volume"
+msgstr "カメラ ブロッキング ボリューム"
+
+#. Key:	NavigationObjectBase:CapsuleComponent
+#. SourceLocation:	From metadata for key DisplayName of member CapsuleComponent in NavigationObjectBase
+msgctxt "UObjectDisplayNames,NavigationObjectBase:CapsuleComponent"
+msgid "Capsule Component"
+msgstr "Capsule Component"
+
+#. Key:	NavigationTestingActor:CapsuleComponent
+#. SourceLocation:	From metadata for key DisplayName of member CapsuleComponent in NavigationTestingActor
+msgctxt "UObjectDisplayNames,NavigationTestingActor:CapsuleComponent"
+msgid "Capsule Component"
+msgstr "Capsule Component"
+
+#. Key:	ECollisionChannel.ECC_Camera
+#. SourceLocation:	From metadata for key DisplayName of enum value ECC_Camera of enum ECollisionChannel in None
+msgctxt "UObjectDisplayNames,ECollisionChannel.ECC_Camera"
+msgid "Camera"
+msgstr "Camera"
+
+#. Key:	ParticleModuleCameraBase
+#. SourceLocation:	From metadata for key DisplayName of member ParticleModuleCameraBase in None
+msgctxt "UObjectDisplayNames,ParticleModuleCameraBase"
+msgid "Camera"
+msgstr "Camera"
+
+#. Key:	ECollisionChannel.ECC_Destructible
+#. SourceLocation:	From metadata for key DisplayName of enum value ECC_Destructible of enum ECollisionChannel in None
+msgctxt "UObjectDisplayNames,ECollisionChannel.ECC_Destructible"
+msgid "Destructible"
+msgstr "Destructible"
+
+#. Key:	CollisionResponseContainer:Pawn
+#. SourceLocation:	From metadata for key DisplayName of member Pawn in CollisionResponseContainer
+msgctxt "UObjectDisplayNames,CollisionResponseContainer:Pawn"
+msgid "Pawn"
+msgstr "Pawn"
+
+#. Key:	ECollisionChannel.ECC_Pawn
+#. SourceLocation:	From metadata for key DisplayName of enum value ECC_Pawn of enum ECollisionChannel in None
+msgctxt "UObjectDisplayNames,ECollisionChannel.ECC_Pawn"
+msgid "Pawn"
+msgstr "Pawn"
+
+#. Key:	CollisionResponseContainer:PhysicsBody
+#. SourceLocation:	From metadata for key DisplayName of member PhysicsBody in CollisionResponseContainer
+msgctxt "UObjectDisplayNames,CollisionResponseContainer:PhysicsBody"
+msgid "PhysicsBody"
+msgstr "PhysicsBody"
+
+#. Key:	ECollisionChannel.ECC_PhysicsBody
+#. SourceLocation:	From metadata for key DisplayName of enum value ECC_PhysicsBody of enum ECollisionChannel in None
+msgctxt "UObjectDisplayNames,ECollisionChannel.ECC_PhysicsBody"
+msgid "PhysicsBody"
+msgstr "PhysicsBody"
+
+#. Key:	CollisionResponseContainer:WorldDynamic
+#. SourceLocation:	From metadata for key DisplayName of member WorldDynamic in CollisionResponseContainer
+msgctxt "UObjectDisplayNames,CollisionResponseContainer:WorldDynamic"
+msgid "WorldDynamic"
+msgstr "WorldDynamic"
+
+#. Key:	ECollisionChannel.ECC_WorldDynamic
+#. SourceLocation:	From metadata for key DisplayName of enum value ECC_WorldDynamic of enum ECollisionChannel in None
+msgctxt "UObjectDisplayNames,ECollisionChannel.ECC_WorldDynamic"
+msgid "WorldDynamic"
+msgstr "WorldDynamic"
+
+#. Key:	ECollisionChannel.ECC_WorldStatic
+#. SourceLocation:	From metadata for key DisplayName of enum value ECC_WorldStatic of enum ECollisionChannel in None
+msgctxt "UObjectDisplayNames,ECollisionChannel.ECC_WorldStatic"
+msgid "WorldStatic"
+msgstr "WorldStatic"
+
+#. Key:	CullDistanceVolume
+#. SourceLocation:	From metadata for key DisplayName of member CullDistanceVolume in None
+msgctxt "UObjectDisplayNames,CullDistanceVolume"
+msgid "Cull Distance Volume"
+msgstr "カル ディスタンス ボリューム"
+
+#. Key:	EEnvOverlapShape.Capsule
+#. SourceLocation:	From metadata for key DisplayName of enum value Capsule of enum EEnvOverlapShape in None
+msgctxt "UObjectDisplayNames,EEnvOverlapShape.Capsule"
+msgid "Capsule"
+msgstr "Capsule"
+
+#. Key:	EDecalBlendMode.DBM_Translucent
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_Translucent of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_Translucent"
+msgid "Translucent"
+msgstr "Translucent"
+
+#. Key:	EComponentMobility.Static
+#. SourceLocation:	From metadata for key DisplayName of enum value Static of enum EComponentMobility in None
+msgctxt "UObjectDisplayNames,EComponentMobility.Static"
+msgid "Static"
+msgstr "Static"
+
+#. Key:	EDecalBlendMode.DBM_DBuffer_Color
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_DBuffer_Color of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_DBuffer_Color"
+msgid "DBuffer Translucent Color"
+msgstr "DBuffer Translucent Color"
+
+#. Key:	EDecalBlendMode.DBM_DBuffer_ColorNormal
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_DBuffer_ColorNormal of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_DBuffer_ColorNormal"
+msgid "DBuffer Translucent Color,Normal"
+msgstr "DBuffer Translucent Color,Normal"
+
+#. Key:	EDecalBlendMode.DBM_DBuffer_ColorNormalRoughness
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_DBuffer_ColorNormalRoughness of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_DBuffer_ColorNormalRoughness"
+msgid "DBuffer Translucent Color,Normal,Roughness"
+msgstr "DBuffer Translucent Color,Normal,Roughness"
+
+#. Key:	EDecalBlendMode.DBM_DBuffer_ColorRoughness
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_DBuffer_ColorRoughness of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_DBuffer_ColorRoughness"
+msgid "DBuffer Translucent Color,Roughness"
+msgstr "DBuffer Translucent Color,Roughness"
+
+#. Key:	EDecalBlendMode.DBM_DBuffer_Normal
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_DBuffer_Normal of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_DBuffer_Normal"
+msgid "DBuffer Translucent Normal"
+msgstr "DBuffer Translucent Normal"
+
+#. Key:	EDecalBlendMode.DBM_DBuffer_NormalRoughness
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_DBuffer_NormalRoughness of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_DBuffer_NormalRoughness"
+msgid "DBuffer Translucent Normal,Roughness"
+msgstr "DBuffer Translucent Normal,Roughness"
+
+#. Key:	EDecalBlendMode.DBM_DBuffer_Roughness
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_DBuffer_Roughness of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_DBuffer_Roughness"
+msgid "DBuffer Translucent Roughness"
+msgstr "DBuffer Translucent Roughness"
+
+#. Key:	EDecalBlendMode.DBM_Emissive
+#. SourceLocation:	From metadata for key DisplayName of enum value DBM_Emissive of enum EDecalBlendMode in None
+msgctxt "UObjectDisplayNames,EDecalBlendMode.DBM_Emissive"
+msgid "Emissive"
+msgstr "エミッシブ"
+
+#. Key:	ESimplygonMaterialChannel.SG_MATERIAL_CHANNEL_EMISSIVE
+#. SourceLocation:	From metadata for key DisplayName of enum value SG_MATERIAL_CHANNEL_EMISSIVE of enum ESimplygonMaterialChannel in None
+msgctxt "UObjectDisplayNames,ESimplygonMaterialChannel.SG_MATERIAL_CHANNEL_EMISSIVE"
+msgid "Emissive"
+msgstr "エミッシブ"
+
+#. Key:	EdGraphNode_Documentation:Link
+#. SourceLocation:	From metadata for key DisplayName of member Link in EdGraphNode_Documentation
+msgctxt "UObjectDisplayNames,EdGraphNode_Documentation:Link"
+msgid "Documentation Link"
+msgstr "ドキュメントリンク"
+
+#. Key:	EditorEngine:bEnableSocketSnapping
+#. SourceLocation:	From metadata for key DisplayName of member bEnableSocketSnapping in EditorEngine
+msgctxt "UObjectDisplayNames,EditorEngine:bEnableSocketSnapping"
+msgid "Enable Socket Snapping"
+msgstr "ソケットスナップを有効にする"
+
+#. Key:	EditorPerProjectUserSettings:bDisplayDocumentationLink
+#. SourceLocation:	From metadata for key DisplayName of member bDisplayDocumentationLink in EditorPerProjectUserSettings
+msgctxt "UObjectDisplayNames,EditorPerProjectUserSettings:bDisplayDocumentationLink"
+msgid "Display Documentation Link"
+msgstr "ドキュメントリンクを表示"
+
+#. Key:	EEarlyZPass.OpaqueAndMasked
+#. SourceLocation:	From metadata for key DisplayName of enum value OpaqueAndMasked of enum EEarlyZPass in None
+msgctxt "UObjectDisplayNames,EEarlyZPass.OpaqueAndMasked"
+msgid "Opaque and masked meshes"
+msgstr "オペイク マスクドメッシュ"
+
+#. Key:	EEarlyZPass.OpaqueOnly
+#. SourceLocation:	From metadata for key DisplayName of enum value OpaqueOnly of enum EEarlyZPass in None
+msgctxt "UObjectDisplayNames,EEarlyZPass.OpaqueOnly"
+msgid "Opaque meshes only"
+msgstr "オペイク メッシュオンリー"
+
+#. Key:	EGraphAxisStyle.Grid
+#. SourceLocation:	From metadata for key DisplayName of enum value Grid of enum EGraphAxisStyle in None
+msgctxt "UObjectDisplayNames,EGraphAxisStyle.Grid"
+msgid "Grid"
+msgstr "グリッド"
+
+#. Key:	EMaterialDomain.MD_Surface
+#. SourceLocation:	From metadata for key DisplayName of enum value MD_Surface of enum EMaterialDomain in None
+msgctxt "UObjectDisplayNames,EMaterialDomain.MD_Surface"
+msgid "Surface"
+msgstr "サーフェス"
+
+#. Key:	EMaterialShadingModel.MSM_SubsurfaceProfile
+#. SourceLocation:	From metadata for key DisplayName of enum value MSM_SubsurfaceProfile of enum EMaterialShadingModel in None
+msgctxt "UObjectDisplayNames,EMaterialShadingModel.MSM_SubsurfaceProfile"
+msgid "Subsurface Profile"
+msgstr "サブサーフェスプロファイル"
+
+#. Key:	MaterialEditorInstanceConstant:SubsurfaceProfile
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceProfile in MaterialEditorInstanceConstant
+msgctxt "UObjectDisplayNames,MaterialEditorInstanceConstant:SubsurfaceProfile"
+msgid "Subsurface Profile"
+msgstr "サブサーフェスプロファイル"
+
+#. Key:	MaterialInterface:SubsurfaceProfile
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceProfile in MaterialInterface
+msgctxt "UObjectDisplayNames,MaterialInterface:SubsurfaceProfile"
+msgid "Subsurface Profile"
+msgstr "サブサーフェスプロファイル"
+
+#. Key:	PixelInspectorView:SubsurfaceProfile
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceProfile in PixelInspectorView
+msgctxt "UObjectDisplayNames,PixelInspectorView:SubsurfaceProfile"
+msgid "Subsurface Profile"
+msgstr "サブサーフェスプロファイル"
+
+#. Key:	SubsurfaceProfile
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceProfile in None
+msgctxt "UObjectDisplayNames,SubsurfaceProfile"
+msgid "Subsurface Profile"
+msgstr "サブサーフェスプロファイル"
+
+#. Key:	ESceneTextureId.PPI_ShadingModel
+#. SourceLocation:	From metadata for key DisplayName of enum value PPI_ShadingModel of enum ESceneTextureId in None
+msgctxt "UObjectDisplayNames,ESceneTextureId.PPI_ShadingModel"
+msgid "Shading Model"
+msgstr "シェーディングモデル"
+
+#. Key:	Material:ShadingModel
+#. SourceLocation:	From metadata for key DisplayName of member ShadingModel in Material
+msgctxt "UObjectDisplayNames,Material:ShadingModel"
+msgid "Shading Model"
+msgstr "シェーディングモデル"
+
+#. Key:	MaterialInstanceBasePropertyOverrides:ShadingModel
+#. SourceLocation:	From metadata for key DisplayName of member ShadingModel in MaterialInstanceBasePropertyOverrides
+msgctxt "UObjectDisplayNames,MaterialInstanceBasePropertyOverrides:ShadingModel"
+msgid "Shading Model"
+msgstr "シェーディングモデル"
+
+#. Key:	TextureFactory:ShadingModel
+#. SourceLocation:	From metadata for key DisplayName of member ShadingModel in TextureFactory
+msgctxt "UObjectDisplayNames,TextureFactory:ShadingModel"
+msgid "Shading Model"
+msgstr "シェーディングモデル"
+
+#. Key:	ESceneTextureId.PPI_SubsurfaceColor
+#. SourceLocation:	From metadata for key DisplayName of enum value PPI_SubsurfaceColor of enum ESceneTextureId in None
+msgctxt "UObjectDisplayNames,ESceneTextureId.PPI_SubsurfaceColor"
+msgid "SubsurfaceColor"
+msgstr "サブサーフェスカラー"
+
+#. Key:	ESimplygonMaterialChannel.SG_MATERIAL_CHANNEL_SUBSURFACE
+#. SourceLocation:	From metadata for key DisplayName of enum value SG_MATERIAL_CHANNEL_SUBSURFACE of enum ESimplygonMaterialChannel in None
+msgctxt "UObjectDisplayNames,ESimplygonMaterialChannel.SG_MATERIAL_CHANNEL_SUBSURFACE"
+msgid "SubsurfaceColor"
+msgstr "サブサーフェスカラー"
+
+#. Key:	ETickingGroup.TG_DuringPhysics
+#. SourceLocation:	From metadata for key DisplayName of enum value TG_DuringPhysics of enum ETickingGroup in None
+msgctxt "UObjectDisplayNames,ETickingGroup.TG_DuringPhysics"
+msgid "During Physics"
+msgstr "フィジックス中"
+
+#. Key:	ETickingGroup.TG_PostPhysics
+#. SourceLocation:	From metadata for key DisplayName of enum value TG_PostPhysics of enum ETickingGroup in None
+msgctxt "UObjectDisplayNames,ETickingGroup.TG_PostPhysics"
+msgid "Post Physics"
+msgstr "フィジックス後"
+
+#. Key:	ETickingGroup.TG_PostUpdateWork
+#. SourceLocation:	From metadata for key DisplayName of enum value TG_PostUpdateWork of enum ETickingGroup in None
+msgctxt "UObjectDisplayNames,ETickingGroup.TG_PostUpdateWork"
+msgid "Post Update Work"
+msgstr "アップデート後"
+
+#. Key:	ETickingGroup.TG_PrePhysics
+#. SourceLocation:	From metadata for key DisplayName of enum value TG_PrePhysics of enum ETickingGroup in None
+msgctxt "UObjectDisplayNames,ETickingGroup.TG_PrePhysics"
+msgid "Pre Physics"
+msgstr "フィジックス前"
+
+#. Key:	FNavigationSystemRunMode.GameMode
+#. SourceLocation:	From metadata for key DisplayName of enum value GameMode of enum FNavigationSystemRunMode in None
+msgctxt "UObjectDisplayNames,FNavigationSystemRunMode.GameMode"
+msgid "Game Mode"
+msgstr "ゲームモード"
+
+#. Key:	GameMode
+#. SourceLocation:	From metadata for key DisplayName of member GameMode in None
+msgctxt "UObjectDisplayNames,GameMode"
+msgid "Game Mode"
+msgstr "ゲームモード"
+
+#. Key:	FoliageType:bCastShadowAsTwoSided
+#. SourceLocation:	From metadata for key DisplayName of member bCastShadowAsTwoSided in FoliageType
+msgctxt "UObjectDisplayNames,FoliageType:bCastShadowAsTwoSided"
+msgid "Cast Shadow as Two Sided"
+msgstr "両面としてシャドウを落とす"
+
+#. Key:	FoliageType:CastShadow
+#. SourceLocation:	From metadata for key DisplayName of member CastShadow in FoliageType
+msgctxt "UObjectDisplayNames,FoliageType:CastShadow"
+msgid "Cast Shadow"
+msgstr "シャドウを落とす"
+
+#. Key:	LandscapeSplineControlPoint:bCastShadow
+#. SourceLocation:	From metadata for key DisplayName of member bCastShadow in LandscapeSplineControlPoint
+msgctxt "UObjectDisplayNames,LandscapeSplineControlPoint:bCastShadow"
+msgid "Cast Shadow"
+msgstr "シャドウを落とす"
+
+#. Key:	LandscapeSplineSegment:bCastShadow
+#. SourceLocation:	From metadata for key DisplayName of member bCastShadow in LandscapeSplineSegment
+msgctxt "UObjectDisplayNames,LandscapeSplineSegment:bCastShadow"
+msgid "Cast Shadow"
+msgstr "シャドウを落とす"
+
+#. Key:	MeshSectionInfo:bCastShadow
+#. SourceLocation:	From metadata for key DisplayName of member bCastShadow in MeshSectionInfo
+msgctxt "UObjectDisplayNames,MeshSectionInfo:bCastShadow"
+msgid "Cast Shadow"
+msgstr "シャドウを落とす"
+
+#. Key:	PrimitiveComponent:CastShadow
+#. SourceLocation:	From metadata for key DisplayName of member CastShadow in PrimitiveComponent
+msgctxt "UObjectDisplayNames,PrimitiveComponent:CastShadow"
+msgid "Cast Shadow"
+msgstr "シャドウを落とす"
+
+#. Key:	GameUserSettings:GetPostProcessingQuality
+#. SourceLocation:	From metadata for key DisplayName of member GetPostProcessingQuality in GameUserSettings
+msgctxt "UObjectDisplayNames,GameUserSettings:GetPostProcessingQuality"
+msgid "Get Post Processing Quality"
+msgstr "ポストプロセスクオリティをゲット"
+
+#. Key:	GameUserSettings:SetPostProcessingQuality
+#. SourceLocation:	From metadata for key DisplayName of member SetPostProcessingQuality in GameUserSettings
+msgctxt "UObjectDisplayNames,GameUserSettings:SetPostProcessingQuality"
+msgid "Set Post Processing Quality"
+msgstr "ポストプロセスクオリティをセット"
+
+#. Key:	GeneralProjectSettings:PrivacyPolicy
+#. SourceLocation:	From metadata for key DisplayName of member PrivacyPolicy in GeneralProjectSettings
+msgctxt "UObjectDisplayNames,GeneralProjectSettings:PrivacyPolicy"
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#. Key:	GPUSpriteEmitterInfo:ScreenAlignment
+#. SourceLocation:	From metadata for key DisplayName of member ScreenAlignment in GPUSpriteEmitterInfo
+msgctxt "UObjectDisplayNames,GPUSpriteEmitterInfo:ScreenAlignment"
+msgid "Screen Alignment"
+msgstr "スクリーン整列"
+
+#. Key:	GPUSpriteResourceData:ScreenAlignment
+#. SourceLocation:	From metadata for key DisplayName of member ScreenAlignment in GPUSpriteResourceData
+msgctxt "UObjectDisplayNames,GPUSpriteResourceData:ScreenAlignment"
+msgid "Screen Alignment"
+msgstr "スクリーン整列"
+
+#. Key:	ParticleModuleRequired:ScreenAlignment
+#. SourceLocation:	From metadata for key DisplayName of member ScreenAlignment in ParticleModuleRequired
+msgctxt "UObjectDisplayNames,ParticleModuleRequired:ScreenAlignment"
+msgid "Screen Alignment"
+msgstr "スクリーン整列"
+
+#. Key:	HitResult:PhysMaterial
+#. SourceLocation:	From metadata for key DisplayName of member PhysMaterial in HitResult
+msgctxt "UObjectDisplayNames,HitResult:PhysMaterial"
+msgid "Phys Material"
+msgstr "物理マテリアル"
+
+#. Key:	LandscapeLayerInfoObject:PhysMaterial
+#. SourceLocation:	From metadata for key DisplayName of member PhysMaterial in LandscapeLayerInfoObject
+msgctxt "UObjectDisplayNames,LandscapeLayerInfoObject:PhysMaterial"
+msgid "Phys Material"
+msgstr "物理マテリアル"
+
+#. Key:	Material:PhysMaterial
+#. SourceLocation:	From metadata for key DisplayName of member PhysMaterial in Material
+msgctxt "UObjectDisplayNames,Material:PhysMaterial"
+msgid "Phys Material"
+msgstr "物理マテリアル"
+
+#. Key:	MaterialEditorInstanceConstant:PhysMaterial
+#. SourceLocation:	From metadata for key DisplayName of member PhysMaterial in MaterialEditorInstanceConstant
+msgctxt "UObjectDisplayNames,MaterialEditorInstanceConstant:PhysMaterial"
+msgid "Phys Material"
+msgstr "物理マテリアル"
+
+#. Key:	MaterialInstance:PhysMaterial
+#. SourceLocation:	From metadata for key DisplayName of member PhysMaterial in MaterialInstance
+msgctxt "UObjectDisplayNames,MaterialInstance:PhysMaterial"
+msgid "Phys Material"
+msgstr "物理マテリアル"
+
+#. Key:	RigidBodyContactInfo:PhysMaterial
+#. SourceLocation:	From metadata for key DisplayName of member PhysMaterial in RigidBodyContactInfo
+msgctxt "UObjectDisplayNames,RigidBodyContactInfo:PhysMaterial"
+msgid "Phys Material"
+msgstr "物理マテリアル"
+
+#. Key:	Interface_PostProcessVolume
+#. SourceLocation:	From metadata for key DisplayName of member Interface_PostProcessVolume in None
+msgctxt "UObjectDisplayNames,Interface_PostProcessVolume"
+msgid "Interface Post Process Volume"
+msgstr "インターフェイス  ポスト プロセス ボリューム"
+
+#. Key:	InterpTrackEvent:bFireEventsWhenForwards
+#. SourceLocation:	From metadata for key DisplayName of member bFireEventsWhenForwards in InterpTrackEvent
+msgctxt "UObjectDisplayNames,InterpTrackEvent:bFireEventsWhenForwards"
+msgid "Fire Events when Forwards"
+msgstr "フォーワード時にイベントを発動"
+
+#. Key:	InterpTrackToggle:bFireEventsWhenForwards
+#. SourceLocation:	From metadata for key DisplayName of member bFireEventsWhenForwards in InterpTrackToggle
+msgctxt "UObjectDisplayNames,InterpTrackToggle:bFireEventsWhenForwards"
+msgid "Fire Events when Forwards"
+msgstr "フォーワード時にイベントを発動"
+
+#. Key:	InterpTrackVisibility:bFireEventsWhenForwards
+#. SourceLocation:	From metadata for key DisplayName of member bFireEventsWhenForwards in InterpTrackVisibility
+msgctxt "UObjectDisplayNames,InterpTrackVisibility:bFireEventsWhenForwards"
+msgid "Fire Events when Forwards"
+msgstr "フォーワード時にイベントを発動"
+
+#. Key:	MovieSceneEventTrack:bFireEventsWhenForwards
+#. SourceLocation:	From metadata for key DisplayName of member bFireEventsWhenForwards in MovieSceneEventTrack
+msgctxt "UObjectDisplayNames,MovieSceneEventTrack:bFireEventsWhenForwards"
+msgid "Fire Events when Forwards"
+msgstr "フォーワード時にイベントを発動"
+
+#. Key:	InterpTrackEvent:bFireEventsWhenJumpingForwards
+#. SourceLocation:	From metadata for key DisplayName of member bFireEventsWhenJumpingForwards in InterpTrackEvent
+msgctxt "UObjectDisplayNames,InterpTrackEvent:bFireEventsWhenJumpingForwards"
+msgid "Fire Events when Jumping Forwards"
+msgstr "前にジャンプ時にイベントを発動"
+
+#. Key:	InterpTrackToggle:bFireEventsWhenJumpingForwards
+#. SourceLocation:	From metadata for key DisplayName of member bFireEventsWhenJumpingForwards in InterpTrackToggle
+msgctxt "UObjectDisplayNames,InterpTrackToggle:bFireEventsWhenJumpingForwards"
+msgid "Fire Events when Jumping Forwards"
+msgstr "前にジャンプ時にイベントを発動"
+
+#. Key:	InterpTrackVisibility:bFireEventsWhenJumpingForwards
+#. SourceLocation:	From metadata for key DisplayName of member bFireEventsWhenJumpingForwards in InterpTrackVisibility
+msgctxt "UObjectDisplayNames,InterpTrackVisibility:bFireEventsWhenJumpingForwards"
+msgid "Fire Events when Jumping Forwards"
+msgstr "前にジャンプ時にイベントを発動"
+
+#. Key:	KillZVolume
+#. SourceLocation:	From metadata for key DisplayName of member KillZVolume in None
+msgctxt "UObjectDisplayNames,KillZVolume"
+msgid "Kill ZVolume"
+msgstr "キル Z ボリューム"
+
+#. Key:	Landscape
+#. SourceLocation:	From metadata for key DisplayName of member Landscape in None
+msgctxt "UObjectDisplayNames,Landscape"
+msgid "Landscape"
+msgstr "ランドスケープ"
+
+#. Key:	LandscapeEditorLayerSettings
+#. SourceLocation:	From metadata for key DisplayName of member LandscapeEditorLayerSettings in None
+msgctxt "UObjectDisplayNames,LandscapeEditorLayerSettings"
+msgid "Landscape Editor Layer Settings"
+msgstr "ランドスケープエディタのレイヤー設定"
+
+#. Key:	PrimitiveComponent:bGenerateOverlapEvents
+#. SourceLocation:	From metadata for key DisplayName of member bGenerateOverlapEvents in PrimitiveComponent
+msgctxt "UObjectDisplayNames,PrimitiveComponent:bGenerateOverlapEvents"
+msgid "Generate Overlap Events"
+msgstr "オーバーラップイベントを発生させる"
+
+#. Key:	LandscapeProxy:StaticLightingLOD
+#. SourceLocation:	From metadata for key DisplayName of member StaticLightingLOD in LandscapeProxy
+msgctxt "UObjectDisplayNames,LandscapeProxy:StaticLightingLOD"
+msgid "Static Lighting LOD"
+msgstr "スタティックライティング LOD"
+
+#. Key:	LandscapeSplineConnection
+#. SourceLocation:	From metadata for key DisplayName of member LandscapeSplineConnection in None
+msgctxt "UObjectDisplayNames,LandscapeSplineConnection"
+msgid "Landscape Spline Connection"
+msgstr "ランドスケープスプラインの接続"
+
+#. Key:	LandscapeSplineInterpPoint
+#. SourceLocation:	From metadata for key DisplayName of member LandscapeSplineInterpPoint in None
+msgctxt "UObjectDisplayNames,LandscapeSplineInterpPoint"
+msgid "Landscape Spline Interp Point"
+msgstr "ランドスケープスプラインの補間点"
+
+#. Key:	LandscapeSplineMeshEntry
+#. SourceLocation:	From metadata for key DisplayName of member LandscapeSplineMeshEntry in None
+msgctxt "UObjectDisplayNames,LandscapeSplineMeshEntry"
+msgid "Landscape Spline Mesh Entry"
+msgstr "ランドスケープスプラインのメッシュエントリー"
+
+#. Key:	LandscapeSplineSegmentConnection
+#. SourceLocation:	From metadata for key DisplayName of member LandscapeSplineSegmentConnection in None
+msgctxt "UObjectDisplayNames,LandscapeSplineSegmentConnection"
+msgid "Landscape Spline Segment Connection"
+msgstr "ランドスケープスプラインのセグメント接続"
+
+#. Key:	LandscapeWeightmapUsage
+#. SourceLocation:	From metadata for key DisplayName of member LandscapeWeightmapUsage in None
+msgctxt "UObjectDisplayNames,LandscapeWeightmapUsage"
+msgid "Landscape Weightmap Usage"
+msgstr "ランドスケープのウェイトマップ使用"
+
+#. Key:	Level:StaticNavigableGeometry
+#. SourceLocation:	From metadata for key DisplayName of member StaticNavigableGeometry in Level
+msgctxt "UObjectDisplayNames,Level:StaticNavigableGeometry"
+msgid "Static Navigable Geometry"
+msgstr "スタティック ナビゲータブル ジオメトリー"
+
+#. Key:	LevelBounds
+#. SourceLocation:	From metadata for key DisplayName of member LevelBounds in None
+msgctxt "UObjectDisplayNames,LevelBounds"
+msgid "Level Bounds"
+msgstr "レベルバウンド"
+
+#. Key:	LevelEditorMiscSettings
+#. SourceLocation:	From metadata for key DisplayName of member LevelEditorMiscSettings in None
+msgctxt "UObjectDisplayNames,LevelEditorMiscSettings"
+msgid "Miscellaneous"
+msgstr "その他"
+
+#. Key:	LevelEditorViewportSettings:bAllowTranslateRotateZWidget
+#. SourceLocation:	From metadata for key DisplayName of member bAllowTranslateRotateZWidget in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:bAllowTranslateRotateZWidget"
+msgid "Enable Combined Translate/Rotate Widget"
+msgstr "平行移動/回転の複合ウィジェットを有効にする"
+
+#. Key:	LevelEditorViewportSettings:bCenterZoomAroundCursor
+#. SourceLocation:	From metadata for key DisplayName of member bCenterZoomAroundCursor in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:bCenterZoomAroundCursor"
+msgid "Orthographic Zoom to Cursor Position"
+msgstr "正射ビューでのカーソル位置へのズーム"
+
+#. Key:	LevelEditorViewportSettings:bClickBSPSelectsBrush
+#. SourceLocation:	From metadata for key DisplayName of member bClickBSPSelectsBrush in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:bClickBSPSelectsBrush"
+msgid "Clicking BSP Enables Brush"
+msgstr "ビューポートのBSPをクリックしてブラシを有効にする"
+
+#. Key:	LevelEditorViewportSettings:bEnableLayerSnap
+#. SourceLocation:	From metadata for key DisplayName of member bEnableLayerSnap in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:bEnableLayerSnap"
+msgid "Enable 2D Layer Snapping"
+msgstr "2Dレイヤースナップを有効にする"
+
+#. Key:	LevelEditorViewportSettings:bInvertMiddleMousePan
+#. SourceLocation:	From metadata for key DisplayName of member bInvertMiddleMousePan in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:bInvertMiddleMousePan"
+msgid "Invert Middle Mouse Pan"
+msgstr "カメラのパンを逆にする（Maya風）"
+
+#. Key:	LevelEditorViewportSettings:bUsePercentageBasedScaling
+#. SourceLocation:	From metadata for key DisplayName of member bUsePercentageBasedScaling in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:bUsePercentageBasedScaling"
+msgid "Use Percentage Based Scaling"
+msgstr "パーセンテージを元にした拡大・縮小"
+
+#. Key:	LevelEditorViewportSettings:bUsePowerOf2SnapSize
+#. SourceLocation:	From metadata for key DisplayName of member bUsePowerOf2SnapSize in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:bUsePowerOf2SnapSize"
+msgid "Use Power of Two Snap Size"
+msgstr "スナップの大きさを2の乗数を使う"
+
+#. Key:	LevelEditorViewportSettings:FlightCameraControlType
+#. SourceLocation:	From metadata for key DisplayName of member FlightCameraControlType in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:FlightCameraControlType"
+msgid "Flight Camera Control Type"
+msgstr "飛行カメラの制御タイプ"
+
+#. Key:	LevelEditorViewportSettings:FoliageEditorControlType
+#. SourceLocation:	From metadata for key DisplayName of member FoliageEditorControlType in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:FoliageEditorControlType"
+msgid "Foliage Editor Control Type"
+msgstr "フォリッジエディタの制御タイプ"
+
+#. Key:	LevelEditorViewportSettings:GridEnabled
+#. SourceLocation:	From metadata for key DisplayName of member GridEnabled in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:GridEnabled"
+msgid "Enable Grid Snapping"
+msgstr "グリッドスナップを有効にする"
+
+#. Key:	WidgetDesignerSettings:GridSnapEnabled
+#. SourceLocation:	From metadata for key DisplayName of member GridSnapEnabled in WidgetDesignerSettings
+msgctxt "UObjectDisplayNames,WidgetDesignerSettings:GridSnapEnabled"
+msgid "Enable Grid Snapping"
+msgstr "グリッドスナップを有効にする"
+
+#. Key:	LevelEditorViewportSettings:LandscapeEditorControlType
+#. SourceLocation:	From metadata for key DisplayName of member LandscapeEditorControlType in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:LandscapeEditorControlType"
+msgid "Landscape Editor Control Type"
+msgstr "ランドスケープエディタの制御タイプ"
+
+#. Key:	LevelEditorViewportSettings:MouseScrollCameraSpeed
+#. SourceLocation:	From metadata for key DisplayName of member MouseScrollCameraSpeed in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:MouseScrollCameraSpeed"
+msgid "Mouse Scroll Camera Speed"
+msgstr "マウスホイールでのカメラ制御スピード"
+
+#. Key:	LevelEditorViewportSettings:RotGridEnabled
+#. SourceLocation:	From metadata for key DisplayName of member RotGridEnabled in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:RotGridEnabled"
+msgid "Enable Rotation Snapping"
+msgstr "回転スナップを有効にする"
+
+#. Key:	LevelEditorViewportSettings:SnapScaleEnabled
+#. SourceLocation:	From metadata for key DisplayName of member SnapScaleEnabled in LevelEditorViewportSettings
+msgctxt "UObjectDisplayNames,LevelEditorViewportSettings:SnapScaleEnabled"
+msgid "Enable Scale Snapping"
+msgstr "拡大・縮小スナップを有効にする"
+
+#. Key:	LevelSimplificationDetails:DetailsPercentage
+#. SourceLocation:	From metadata for key DisplayName of member DetailsPercentage in LevelSimplificationDetails
+msgctxt "UObjectDisplayNames,LevelSimplificationDetails:DetailsPercentage"
+msgid "Static Mesh Details Percentage"
+msgstr "スタティックメッシュ 詳細パーセンテージ"
+
+#. Key:	LevelSimplificationDetails:StaticMeshMaterial
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshMaterial in LevelSimplificationDetails
+msgctxt "UObjectDisplayNames,LevelSimplificationDetails:StaticMeshMaterial"
+msgid "Static Mesh Material"
+msgstr "スタティックメッシュ マテリアル"
+
+#. Key:	LevelSimplificationDetails:StaticMeshMaterialSettings
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshMaterialSettings in LevelSimplificationDetails
+msgctxt "UObjectDisplayNames,LevelSimplificationDetails:StaticMeshMaterialSettings"
+msgid "Static Mesh Material Settings"
+msgstr "スタティックメッシュ マテリアル設定"
+
+#. Key:	LevelStreamingVolume
+#. SourceLocation:	From metadata for key DisplayName of member LevelStreamingVolume in None
+msgctxt "UObjectDisplayNames,LevelStreamingVolume"
+msgid "Level Streaming Volume"
+msgstr "レベル ストリーミング ボリューム"
+
+#. Key:	Light:SetAffectTranslucentLighting
+#. SourceLocation:	From metadata for key DisplayName of member SetAffectTranslucentLighting in Light
+msgctxt "UObjectDisplayNames,Light:SetAffectTranslucentLighting"
+msgid "Set Affect Translucent Lighting"
+msgstr "トランスルーセント ライティング 影響をセット"
+
+#. Key:	LightComponent:SetAffectTranslucentLighting
+#. SourceLocation:	From metadata for key DisplayName of member SetAffectTranslucentLighting in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:SetAffectTranslucentLighting"
+msgid "Set Affect Translucent Lighting"
+msgstr "トランスルーセント ライティング 影響をセット"
+
+#. Key:	Light:SetCastShadows
+#. SourceLocation:	From metadata for key DisplayName of member SetCastShadows in Light
+msgctxt "UObjectDisplayNames,Light:SetCastShadows"
+msgid "Set Cast Shadows"
+msgstr "キャストシャドウをつける"
+
+#. Key:	LightComponentBase:SetCastShadows
+#. SourceLocation:	From metadata for key DisplayName of member SetCastShadows in LightComponentBase
+msgctxt "UObjectDisplayNames,LightComponentBase:SetCastShadows"
+msgid "Set Cast Shadows"
+msgstr "キャストシャドウをつける"
+
+#. Key:	Light:SetLightFunctionFadeDistance
+#. SourceLocation:	From metadata for key DisplayName of member SetLightFunctionFadeDistance in Light
+msgctxt "UObjectDisplayNames,Light:SetLightFunctionFadeDistance"
+msgid "Set Light Function Fade Distance"
+msgstr "ライトファンクションフェードディスタンスをセット"
+
+#. Key:	LightComponent:SetLightFunctionFadeDistance
+#. SourceLocation:	From metadata for key DisplayName of member SetLightFunctionFadeDistance in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:SetLightFunctionFadeDistance"
+msgid "Set Light Function Fade Distance"
+msgstr "ライトファンクションフェードディスタンスをセット"
+
+#. Key:	Light:SetLightFunctionMaterial
+#. SourceLocation:	From metadata for key DisplayName of member SetLightFunctionMaterial in Light
+msgctxt "UObjectDisplayNames,Light:SetLightFunctionMaterial"
+msgid "Set Light Function Material"
+msgstr "ライトファンクションマテリアルをセット"
+
+#. Key:	LightComponent:SetLightFunctionMaterial
+#. SourceLocation:	From metadata for key DisplayName of member SetLightFunctionMaterial in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:SetLightFunctionMaterial"
+msgid "Set Light Function Material"
+msgstr "ライトファンクションマテリアルをセット"
+
+#. Key:	Light:SetLightFunctionScale
+#. SourceLocation:	From metadata for key DisplayName of member SetLightFunctionScale in Light
+msgctxt "UObjectDisplayNames,Light:SetLightFunctionScale"
+msgid "Set Light Function Scale"
+msgstr "ライトファンクションスケールをセット"
+
+#. Key:	LightComponent:SetLightFunctionScale
+#. SourceLocation:	From metadata for key DisplayName of member SetLightFunctionScale in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:SetLightFunctionScale"
+msgid "Set Light Function Scale"
+msgstr "ライトファンクションスケールをセット"
+
+#. Key:	LightComponent:bCastShadowsFromCinematicObjectsOnly
+#. SourceLocation:	From metadata for key DisplayName of member bCastShadowsFromCinematicObjectsOnly in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:bCastShadowsFromCinematicObjectsOnly"
+msgid "Cast Shadows from Cinematic Objects Only"
+msgstr "シネマティックオブジェクトからのみシャドウを落とす"
+
+#. Key:	LightComponent:CastTranslucentShadows
+#. SourceLocation:	From metadata for key DisplayName of member CastTranslucentShadows in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:CastTranslucentShadows"
+msgid "Cast Translucent Shadows"
+msgstr "トランスルーセント シャドウをキャスト"
+
+#. Key:	LightComponent:LightFunctionMaterial
+#. SourceLocation:	From metadata for key DisplayName of member LightFunctionMaterial in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:LightFunctionMaterial"
+msgid "Light Function Material"
+msgstr "ライトファンクションマテリアル"
+
+#. Key:	LightComponent:LightFunctionScale
+#. SourceLocation:	From metadata for key DisplayName of member LightFunctionScale in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:LightFunctionScale"
+msgid "Light Function Scale"
+msgstr "ライトファンクションスケール"
+
+#. Key:	LightComponent:SetLightFunctionDisabledBrightness
+#. SourceLocation:	From metadata for key DisplayName of member SetLightFunctionDisabledBrightness in LightComponent
+msgctxt "UObjectDisplayNames,LightComponent:SetLightFunctionDisabledBrightness"
+msgid "Set Light Function Disabled Brightness"
+msgstr "ライトファンクションディスエイブルドブライトネスをセット"
+
+#. Key:	LightComponentBase:bAffectTranslucentLighting
+#. SourceLocation:	From metadata for key DisplayName of member bAffectTranslucentLighting in LightComponentBase
+msgctxt "UObjectDisplayNames,LightComponentBase:bAffectTranslucentLighting"
+msgid "Affect Translucent Lighting"
+msgstr "トランスルーセント ライトを影響させる"
+
+#. Key:	LightComponentBase:Brightness
+#. SourceLocation:	From metadata for key DisplayName of member Brightness in LightComponentBase
+msgctxt "UObjectDisplayNames,LightComponentBase:Brightness"
+msgid "Brightness"
+msgstr "輝度"
+
+#. Key:	ReflectionCaptureComponent:Brightness
+#. SourceLocation:	From metadata for key DisplayName of member Brightness in ReflectionCaptureComponent
+msgctxt "UObjectDisplayNames,ReflectionCaptureComponent:Brightness"
+msgid "Brightness"
+msgstr "輝度"
+
+#. Key:	Texture:AdjustBrightness
+#. SourceLocation:	From metadata for key DisplayName of member AdjustBrightness in Texture
+msgctxt "UObjectDisplayNames,Texture:AdjustBrightness"
+msgid "Brightness"
+msgstr "輝度"
+
+#. Key:	TextureLightProfile:Brightness
+#. SourceLocation:	From metadata for key DisplayName of member Brightness in TextureLightProfile
+msgctxt "UObjectDisplayNames,TextureLightProfile:Brightness"
+msgid "Brightness"
+msgstr "輝度"
+
+#. Key:	LightComponentBase:CastShadows
+#. SourceLocation:	From metadata for key DisplayName of member CastShadows in LightComponentBase
+msgctxt "UObjectDisplayNames,LightComponentBase:CastShadows"
+msgid "Cast Shadows"
+msgstr "シャドウを落とす"
+
+#. Key:	ParticleModuleTypeDataMesh:CastShadows
+#. SourceLocation:	From metadata for key DisplayName of member CastShadows in ParticleModuleTypeDataMesh
+msgctxt "UObjectDisplayNames,ParticleModuleTypeDataMesh:CastShadows"
+msgid "Cast Shadows"
+msgstr "シャドウを落とす"
+
+#. Key:	LightComponentBase:CastStaticShadows
+#. SourceLocation:	From metadata for key DisplayName of member CastStaticShadows in LightComponentBase
+msgctxt "UObjectDisplayNames,LightComponentBase:CastStaticShadows"
+msgid "Cast Static Shadows"
+msgstr "スタティックシャドウをキャスト"
+
+#. Key:	LightComponentBase:StaticEditorTexture
+#. SourceLocation:	From metadata for key DisplayName of member StaticEditorTexture in LightComponentBase
+msgctxt "UObjectDisplayNames,LightComponentBase:StaticEditorTexture"
+msgid "Static Editor Texture"
+msgstr "スタティック エディタ テクスチャー"
+
+#. Key:	LightComponentBase:StaticEditorTextureScale
+#. SourceLocation:	From metadata for key DisplayName of member StaticEditorTextureScale in LightComponentBase
+msgctxt "UObjectDisplayNames,LightComponentBase:StaticEditorTextureScale"
+msgid "Static Editor Texture Scale"
+msgstr "スタティック エディタ テクスチャー スケール"
+
+#. Key:	LightmappedSurfaceCollection
+#. SourceLocation:	From metadata for key DisplayName of member LightmappedSurfaceCollection in None
+msgctxt "UObjectDisplayNames,LightmappedSurfaceCollection"
+msgid "Lightmapped Surface Collection"
+msgstr "ライトマップサーフェスコレクション"
+
+#. Key:	LightmassCharacterIndirectDetailVolume
+#. SourceLocation:	From metadata for key DisplayName of member LightmassCharacterIndirectDetailVolume in None
+msgctxt "UObjectDisplayNames,LightmassCharacterIndirectDetailVolume"
+msgid "Lightmass Character Indirect Detail Volume"
+msgstr "ライトマス キャラクター インディレクト ディテイル ボリューム"
+
+#. Key:	LightmassImportanceVolume
+#. SourceLocation:	From metadata for key DisplayName of member LightmassImportanceVolume in None
+msgctxt "UObjectDisplayNames,LightmassImportanceVolume"
+msgid "Lightmass Importance Volume"
+msgstr "ライトマス インポータンス ボリューム"
+
+#. Key:	LightmassMaterialInterfaceSettings:bCastShadowAsMasked
+#. SourceLocation:	From metadata for key DisplayName of member bCastShadowAsMasked in LightmassMaterialInterfaceSettings
+msgctxt "UObjectDisplayNames,LightmassMaterialInterfaceSettings:bCastShadowAsMasked"
+msgid "Cast Shadow as Masked"
+msgstr "マスクされたシャドウを落とす"
+
+#. Key:	LightmassParameterizedMaterialSettings:CastShadowAsMasked
+#. SourceLocation:	From metadata for key DisplayName of member CastShadowAsMasked in LightmassParameterizedMaterialSettings
+msgctxt "UObjectDisplayNames,LightmassParameterizedMaterialSettings:CastShadowAsMasked"
+msgid "Cast Shadow as Masked"
+msgstr "マスクされたシャドウを落とす"
+
+#. Key:	LightmassMaterialInterfaceSettings:bOverrideCastShadowAsMasked
+#. SourceLocation:	From metadata for key DisplayName of member bOverrideCastShadowAsMasked in LightmassMaterialInterfaceSettings
+msgctxt "UObjectDisplayNames,LightmassMaterialInterfaceSettings:bOverrideCastShadowAsMasked"
+msgid "Override Cast Shadow as Masked"
+msgstr "優先するマスクされたシャドウを落とす"
+
+#. Key:	LightmassMaterialInterfaceSettings:bOverrideDiffuseBoost
+#. SourceLocation:	From metadata for key DisplayName of member bOverrideDiffuseBoost in LightmassMaterialInterfaceSettings
+msgctxt "UObjectDisplayNames,LightmassMaterialInterfaceSettings:bOverrideDiffuseBoost"
+msgid "Override Diffuse Boost"
+msgstr "優先ディフューズ ブースト"
+
+#. Key:	LightmassMaterialInterfaceSettings:bOverrideEmissiveBoost
+#. SourceLocation:	From metadata for key DisplayName of member bOverrideEmissiveBoost in LightmassMaterialInterfaceSettings
+msgctxt "UObjectDisplayNames,LightmassMaterialInterfaceSettings:bOverrideEmissiveBoost"
+msgid "Override Emissive Boost"
+msgstr "オーバーライドエミッシブブースト"
+
+#. Key:	LightmassMaterialInterfaceSettings:DiffuseBoost
+#. SourceLocation:	From metadata for key DisplayName of member DiffuseBoost in LightmassMaterialInterfaceSettings
+msgctxt "UObjectDisplayNames,LightmassMaterialInterfaceSettings:DiffuseBoost"
+msgid "Diffuse Boost"
+msgstr "ディフューズ ブースト"
+
+#. Key:	LightmassParameterizedMaterialSettings:DiffuseBoost
+#. SourceLocation:	From metadata for key DisplayName of member DiffuseBoost in LightmassParameterizedMaterialSettings
+msgctxt "UObjectDisplayNames,LightmassParameterizedMaterialSettings:DiffuseBoost"
+msgid "Diffuse Boost"
+msgstr "ディフューズ ブースト"
+
+#. Key:	LightmassPrimitiveSettings:DiffuseBoost
+#. SourceLocation:	From metadata for key DisplayName of member DiffuseBoost in LightmassPrimitiveSettings
+msgctxt "UObjectDisplayNames,LightmassPrimitiveSettings:DiffuseBoost"
+msgid "Diffuse Boost"
+msgstr "ディフューズ ブースト"
+
+#. Key:	LightmassWorldInfoSettings:DiffuseBoost
+#. SourceLocation:	From metadata for key DisplayName of member DiffuseBoost in LightmassWorldInfoSettings
+msgctxt "UObjectDisplayNames,LightmassWorldInfoSettings:DiffuseBoost"
+msgid "Diffuse Boost"
+msgstr "ディフューズ ブースト"
+
+#. Key:	LightmassMaterialInterfaceSettings:EmissiveBoost
+#. SourceLocation:	From metadata for key DisplayName of member EmissiveBoost in LightmassMaterialInterfaceSettings
+msgctxt "UObjectDisplayNames,LightmassMaterialInterfaceSettings:EmissiveBoost"
+msgid "Emissive Boost"
+msgstr "エミッシブブースト"
+
+#. Key:	LightmassParameterizedMaterialSettings:EmissiveBoost
+#. SourceLocation:	From metadata for key DisplayName of member EmissiveBoost in LightmassParameterizedMaterialSettings
+msgctxt "UObjectDisplayNames,LightmassParameterizedMaterialSettings:EmissiveBoost"
+msgid "Emissive Boost"
+msgstr "エミッシブブースト"
+
+#. Key:	LightmassPrimitiveSettings:EmissiveBoost
+#. SourceLocation:	From metadata for key DisplayName of member EmissiveBoost in LightmassPrimitiveSettings
+msgctxt "UObjectDisplayNames,LightmassPrimitiveSettings:EmissiveBoost"
+msgid "Emissive Boost"
+msgstr "エミッシブブースト"
+
+#. Key:	LightmassWorldInfoSettings:EmissiveBoost
+#. SourceLocation:	From metadata for key DisplayName of member EmissiveBoost in LightmassWorldInfoSettings
+msgctxt "UObjectDisplayNames,LightmassWorldInfoSettings:EmissiveBoost"
+msgid "Emissive Boost"
+msgstr "エミッシブブースト"
+
+#. Key:	LightmassPrimitiveSettings:bShadowIndirectOnly
+#. SourceLocation:	From metadata for key DisplayName of member bShadowIndirectOnly in LightmassPrimitiveSettings
+msgctxt "UObjectDisplayNames,LightmassPrimitiveSettings:bShadowIndirectOnly"
+msgid "Shadow Indirect Only"
+msgstr "シャドウを間接光のみに対応"
+
+#. Key:	LightmassPrimitiveSettings:bUseEmissiveForStaticLighting
+#. SourceLocation:	From metadata for key DisplayName of member bUseEmissiveForStaticLighting in LightmassPrimitiveSettings
+msgctxt "UObjectDisplayNames,LightmassPrimitiveSettings:bUseEmissiveForStaticLighting"
+msgid "Use Emissive for Static Lighting"
+msgstr "エミッシブをスタティックライトに使用"
+
+#. Key:	LightmassPrimitiveSettings:bUseTwoSidedLighting
+#. SourceLocation:	From metadata for key DisplayName of member bUseTwoSidedLighting in LightmassPrimitiveSettings
+msgctxt "UObjectDisplayNames,LightmassPrimitiveSettings:bUseTwoSidedLighting"
+msgid "Use Two Sided Lighting"
+msgstr "両面ライティングを使用"
+
+#. Key:	LightmassPrimitiveSettings:bUseVertexNormalForHemisphereGather
+#. SourceLocation:	From metadata for key DisplayName of member bUseVertexNormalForHemisphereGather in LightmassPrimitiveSettings
+msgctxt "UObjectDisplayNames,LightmassPrimitiveSettings:bUseVertexNormalForHemisphereGather"
+msgid "Use Vertex Normal for Hemisphere Gather"
+msgstr "バーテックスノーマルをヘミスフィアギャザーに使用"
+
+#. Key:	LightmassPrimitiveSettings:FullyOccludedSamplesFraction
+#. SourceLocation:	From metadata for key DisplayName of member FullyOccludedSamplesFraction in LightmassPrimitiveSettings
+msgctxt "UObjectDisplayNames,LightmassPrimitiveSettings:FullyOccludedSamplesFraction"
+msgid "Fully Occluded Samples Fraction"
+msgstr "完全にオクルージョンさせるサンプルフラクション"
+
+#. Key:	LightmassWorldInfoSettings:FullyOccludedSamplesFraction
+#. SourceLocation:	From metadata for key DisplayName of member FullyOccludedSamplesFraction in LightmassWorldInfoSettings
+msgctxt "UObjectDisplayNames,LightmassWorldInfoSettings:FullyOccludedSamplesFraction"
+msgid "Fully Occluded Samples Fraction"
+msgstr "完全にオクルージョンさせるサンプルフラクション"
+
+#. Key:	LightmassWorldInfoSettings:StaticLightingLevelScale
+#. SourceLocation:	From metadata for key DisplayName of member StaticLightingLevelScale in LightmassWorldInfoSettings
+msgctxt "UObjectDisplayNames,LightmassWorldInfoSettings:StaticLightingLevelScale"
+msgid "Static Lighting Level Scale"
+msgstr "スタティック ライティング レベル スケール"
+
+#. Key:	LODActor:StaticMeshComponent
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshComponent in LODActor
+msgctxt "UObjectDisplayNames,LODActor:StaticMeshComponent"
+msgid "Static Mesh Component"
+msgstr "スタティックメッシュコンポーネント"
+
+#. Key:	StaticMeshActor:StaticMeshComponent
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshComponent in StaticMeshActor
+msgctxt "UObjectDisplayNames,StaticMeshActor:StaticMeshComponent"
+msgid "Static Mesh Component"
+msgstr "スタティックメッシュコンポーネント"
+
+#. Key:	StaticMeshComponent
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshComponent in None
+msgctxt "UObjectDisplayNames,StaticMeshComponent"
+msgid "Static Mesh Component"
+msgstr "スタティックメッシュコンポーネント"
+
+#. Key:	Material:bBlockGI
+#. SourceLocation:	From metadata for key DisplayName of member bBlockGI in Material
+msgctxt "UObjectDisplayNames,Material:bBlockGI"
+msgid "Block Global Illumination"
+msgstr "グローバルイルミネーションを遮断"
+
+#. Key:	Material:bGenerateSphericalParticleNormals
+#. SourceLocation:	From metadata for key DisplayName of member bGenerateSphericalParticleNormals in Material
+msgctxt "UObjectDisplayNames,Material:bGenerateSphericalParticleNormals"
+msgid "Generate Spherical Particle Normals"
+msgstr "スフィリカルパーティクルノーマルを生成"
+
+#. Key:	Material:bIsMasked
+#. SourceLocation:	From metadata for key DisplayName of member bIsMasked in Material
+msgctxt "UObjectDisplayNames,Material:bIsMasked"
+msgid "Is Masked"
+msgstr "マスクドである"
+
+#. Key:	Material:bOutputVelocityOnBasePass
+#. SourceLocation:	From metadata for key DisplayName of member bOutputVelocityOnBasePass in Material
+msgctxt "UObjectDisplayNames,Material:bOutputVelocityOnBasePass"
+msgid "Support accurate velocities from Vertex Deformation"
+msgstr "ベロシティの精度をバーテックス変形を使って上げる"
+
+#. Key:	Material:bTangentSpaceNormal
+#. SourceLocation:	From metadata for key DisplayName of member bTangentSpaceNormal in Material
+msgctxt "UObjectDisplayNames,Material:bTangentSpaceNormal"
+msgid "Tangent Space Normal"
+msgstr "タンジェントスペースノーマル"
+
+#. Key:	Material:bUseEmissiveForDynamicAreaLighting
+#. SourceLocation:	From metadata for key DisplayName of member bUseEmissiveForDynamicAreaLighting in Material
+msgctxt "UObjectDisplayNames,Material:bUseEmissiveForDynamicAreaLighting"
+msgid "Emissive (Dynamic Area Light)"
+msgstr "エミッシブ（ダイナミックエリアライト）"
+
+#. Key:	Material:bUseMaterialAttributes
+#. SourceLocation:	From metadata for key DisplayName of member bUseMaterialAttributes in Material
+msgctxt "UObjectDisplayNames,Material:bUseMaterialAttributes"
+msgid "Use Material Attributes"
+msgstr "マテリアルアトリビュートを使用"
+
+#. Key:	Material:DecalBlendMode
+#. SourceLocation:	From metadata for key DisplayName of member DecalBlendMode in Material
+msgctxt "UObjectDisplayNames,Material:DecalBlendMode"
+msgid "Decal Blend Mode"
+msgstr "デカールブレンドモード"
+
+#. Key:	Material:DitheredLODTransition
+#. SourceLocation:	From metadata for key DisplayName of member DitheredLODTransition in Material
+msgctxt "UObjectDisplayNames,Material:DitheredLODTransition"
+msgid "Dithered LODTransition"
+msgstr "ディザードLODトランジション"
+
+#. Key:	MaterialInstanceBasePropertyOverrides:DitheredLODTransition
+#. SourceLocation:	From metadata for key DisplayName of member DitheredLODTransition in MaterialInstanceBasePropertyOverrides
+msgctxt "UObjectDisplayNames,MaterialInstanceBasePropertyOverrides:DitheredLODTransition"
+msgid "Dithered LODTransition"
+msgstr "ディザードLODトランジション"
+
+#. Key:	Material:EmissiveColor
+#. SourceLocation:	From metadata for key DisplayName of member EmissiveColor in Material
+msgctxt "UObjectDisplayNames,Material:EmissiveColor"
+msgid "Emissive Color"
+msgstr "エミッシブカラー"
+
+#. Key:	MaterialExpressionMakeMaterialAttributes:EmissiveColor
+#. SourceLocation:	From metadata for key DisplayName of member EmissiveColor in MaterialExpressionMakeMaterialAttributes
+msgctxt "UObjectDisplayNames,MaterialExpressionMakeMaterialAttributes:EmissiveColor"
+msgid "Emissive Color"
+msgstr "エミッシブカラー"
+
+#. Key:	Material:MaterialDecalResponse
+#. SourceLocation:	From metadata for key DisplayName of member MaterialDecalResponse in Material
+msgctxt "UObjectDisplayNames,Material:MaterialDecalResponse"
+msgid "Decal Response (DBuffer)"
+msgstr "デカールレスポンス(DBuffer)"
+
+#. Key:	Material:MaterialDomain
+#. SourceLocation:	From metadata for key DisplayName of member MaterialDomain in Material
+msgctxt "UObjectDisplayNames,Material:MaterialDomain"
+msgid "Material Domain"
+msgstr "マテリアル属性"
+
+#. Key:	Material:NumCustomizedUVs
+#. SourceLocation:	From metadata for key DisplayName of member NumCustomizedUVs in Material
+msgctxt "UObjectDisplayNames,Material:NumCustomizedUVs"
+msgid "Num Customized UVs"
+msgstr "カスタムUVの数"
+
+#. Key:	Material:OpacityMaskClipValue
+#. SourceLocation:	From metadata for key DisplayName of member OpacityMaskClipValue in Material
+msgctxt "UObjectDisplayNames,Material:OpacityMaskClipValue"
+msgid "Opacity Mask Clip Value"
+msgstr "オパシティマスク上限値"
+
+#. Key:	MaterialInstanceBasePropertyOverrides:OpacityMaskClipValue
+#. SourceLocation:	From metadata for key DisplayName of member OpacityMaskClipValue in MaterialInstanceBasePropertyOverrides
+msgctxt "UObjectDisplayNames,MaterialInstanceBasePropertyOverrides:OpacityMaskClipValue"
+msgid "Opacity Mask Clip Value"
+msgstr "オパシティマスク上限値"
+
+#. Key:	Material:RefractionDepthBias
+#. SourceLocation:	From metadata for key DisplayName of member RefractionDepthBias in Material
+msgctxt "UObjectDisplayNames,Material:RefractionDepthBias"
+msgid "Refraction Depth Bias"
+msgstr "リフラクション深度バイアス"
+
+#. Key:	MaterialEditorInstanceConstant:RefractionDepthBias
+#. SourceLocation:	From metadata for key DisplayName of member RefractionDepthBias in MaterialEditorInstanceConstant
+msgctxt "UObjectDisplayNames,MaterialEditorInstanceConstant:RefractionDepthBias"
+msgid "Refraction Depth Bias"
+msgstr "リフラクション深度バイアス"
+
+#. Key:	Material:SubsurfaceColor
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceColor in Material
+msgctxt "UObjectDisplayNames,Material:SubsurfaceColor"
+msgid "Subsurface Color"
+msgstr "サブサーフェスカラー"
+
+#. Key:	MaterialExpressionMakeMaterialAttributes:SubsurfaceColor
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceColor in MaterialExpressionMakeMaterialAttributes
+msgctxt "UObjectDisplayNames,MaterialExpressionMakeMaterialAttributes:SubsurfaceColor"
+msgid "Subsurface Color"
+msgstr "サブサーフェスカラー"
+
+#. Key:	SubsurfaceProfileStruct:SubsurfaceColor
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceColor in SubsurfaceProfileStruct
+msgctxt "UObjectDisplayNames,SubsurfaceProfileStruct:SubsurfaceColor"
+msgid "Subsurface Color"
+msgstr "サブサーフェスカラー"
+
+#. Key:	Material:TwoSided
+#. SourceLocation:	From metadata for key DisplayName of member TwoSided in Material
+msgctxt "UObjectDisplayNames,Material:TwoSided"
+msgid "Two Sided"
+msgstr "両面処理"
+
+#. Key:	MaterialInstanceBasePropertyOverrides:TwoSided
+#. SourceLocation:	From metadata for key DisplayName of member TwoSided in MaterialInstanceBasePropertyOverrides
+msgctxt "UObjectDisplayNames,MaterialInstanceBasePropertyOverrides:TwoSided"
+msgid "Two Sided"
+msgstr "両面処理"
+
+#. Key:	TextureFactory:bTwoSided
+#. SourceLocation:	From metadata for key DisplayName of member bTwoSided in TextureFactory
+msgctxt "UObjectDisplayNames,TextureFactory:bTwoSided"
+msgid "Two Sided"
+msgstr "両面処理"
+
+#. Key:	Material:Wireframe
+#. SourceLocation:	From metadata for key DisplayName of member Wireframe in Material
+msgctxt "UObjectDisplayNames,Material:Wireframe"
+msgid "Wireframe"
+msgstr "ワイヤーフレーム"
+
+#. Key:	MaterialEditorInstanceConstant:bOverrideSubsurfaceProfile
+#. SourceLocation:	From metadata for key DisplayName of member bOverrideSubsurfaceProfile in MaterialEditorInstanceConstant
+msgctxt "UObjectDisplayNames,MaterialEditorInstanceConstant:bOverrideSubsurfaceProfile"
+msgid "Override Subsurface Profile"
+msgstr "サブサーフェスプロファイルを上書き"
+
+#. Key:	MaterialInstance:bOverrideSubsurfaceProfile
+#. SourceLocation:	From metadata for key DisplayName of member bOverrideSubsurfaceProfile in MaterialInstance
+msgctxt "UObjectDisplayNames,MaterialInstance:bOverrideSubsurfaceProfile"
+msgid "Override Subsurface Profile"
+msgstr "サブサーフェスプロファイルを上書き"
+
+#. Key:	MaterialExpressionDistanceToNearestSurface
+#. SourceLocation:	From metadata for key DisplayName of member MaterialExpressionDistanceToNearestSurface in None
+msgctxt "UObjectDisplayNames,MaterialExpressionDistanceToNearestSurface"
+msgid "Material Expression Distance to Nearest Surface"
+msgstr "マテリアルエクスプレッション ディスタンスからニアレストサーフェス"
+
+#. Key:	MaterialExpressionGIReplace:StaticIndirect
+#. SourceLocation:	From metadata for key DisplayName of member StaticIndirect in MaterialExpressionGIReplace
+msgctxt "UObjectDisplayNames,MaterialExpressionGIReplace:StaticIndirect"
+msgid "Static Indirect"
+msgstr "スタティック インディレクト"
+
+#. Key:	MaterialExpressionStaticBool
+#. SourceLocation:	From metadata for key DisplayName of member MaterialExpressionStaticBool in None
+msgctxt "UObjectDisplayNames,MaterialExpressionStaticBool"
+msgid "Material Expression Static Bool"
+msgstr "マテリアル エクスプレッション スタティック ブール"
+
+#. Key:	MaterialExpressionStaticBoolParameter
+#. SourceLocation:	From metadata for key DisplayName of member MaterialExpressionStaticBoolParameter in None
+msgctxt "UObjectDisplayNames,MaterialExpressionStaticBoolParameter"
+msgid "Material Expression Static Bool Parameter"
+msgstr "マテリアルエクスプレッション スタティックブール パラメター"
+
+#. Key:	MaterialExpressionStaticComponentMaskParameter
+#. SourceLocation:	From metadata for key DisplayName of member MaterialExpressionStaticComponentMaskParameter in None
+msgctxt "UObjectDisplayNames,MaterialExpressionStaticComponentMaskParameter"
+msgid "Material Expression Static Component Mask Parameter"
+msgstr "マテリアルエクスプレッション スタティックコンポーネント マスク パラメター"
+
+#. Key:	MaterialExpressionStaticSwitch
+#. SourceLocation:	From metadata for key DisplayName of member MaterialExpressionStaticSwitch in None
+msgctxt "UObjectDisplayNames,MaterialExpressionStaticSwitch"
+msgid "Material Expression Static Switch"
+msgstr "マテリアルエクスプレッション スタティック スイッチ"
+
+#. Key:	MaterialExpressionStaticSwitchParameter
+#. SourceLocation:	From metadata for key DisplayName of member MaterialExpressionStaticSwitchParameter in None
+msgctxt "UObjectDisplayNames,MaterialExpressionStaticSwitchParameter"
+msgid "Material Expression Static Switch Parameter"
+msgstr "マテリアルエクスプレッション スタティック スイッチ パラメター"
+
+#. Key:	ParticleModuleEventGenerator:Events
+#. SourceLocation:	From metadata for key DisplayName of member Events in ParticleModuleEventGenerator
+msgctxt "UObjectDisplayNames,ParticleModuleEventGenerator:Events"
+msgid "Events"
+msgstr "Events"
+
+#. Key:	NavMeshBoundsVolume
+#. SourceLocation:	From metadata for key DisplayName of member NavMeshBoundsVolume in None
+msgctxt "UObjectDisplayNames,NavMeshBoundsVolume"
+msgid "Nav Mesh Bounds Volume"
+msgstr "ナビ メッシュ  バウンズ  ボリューム"
+
+#. Key:	NavModifierVolume
+#. SourceLocation:	From metadata for key DisplayName of member NavModifierVolume in None
+msgctxt "UObjectDisplayNames,NavModifierVolume"
+msgid "Nav Modifier Volume"
+msgstr "ナビ モディファイア ボリューム"
+
+#. Key:	NiagaraEventGeneratorProperties:MaxEventsPerFrame
+#. SourceLocation:	From metadata for key DisplayName of member MaxEventsPerFrame in NiagaraEventGeneratorProperties
+msgctxt "UObjectDisplayNames,NiagaraEventGeneratorProperties:MaxEventsPerFrame"
+msgid "Max Events Per Frame"
+msgstr "フレーム毎の最大イベント数"
+
+#. Key:	PainCausingVolume
+#. SourceLocation:	From metadata for key DisplayName of member PainCausingVolume in None
+msgctxt "UObjectDisplayNames,PainCausingVolume"
+msgid "Pain Causing Volume"
+msgstr "ペイン コージング ボリューム"
+
+#. Key:	ParticleEvent_GenerateInfo:ParticleModuleEventsToSendToGame
+#. SourceLocation:	From metadata for key DisplayName of member ParticleModuleEventsToSendToGame in ParticleEvent_GenerateInfo
+msgctxt "UObjectDisplayNames,ParticleEvent_GenerateInfo:ParticleModuleEventsToSendToGame"
+msgid "Particle Module Events to Send to Game"
+msgstr "ゲームに送るパーティクルモジュールイベント"
+
+#. Key:	ParticleEvent_GenerateInfo:ParticleModuleEventsToSendToGame.ParticleModuleEventsToSendToGame
+#. SourceLocation:	From metadata for key DisplayName of member ParticleModuleEventsToSendToGame in ParticleEvent_GenerateInfo:ParticleModuleEventsToSendToGame
+msgctxt "UObjectDisplayNames,ParticleEvent_GenerateInfo:ParticleModuleEventsToSendToGame.ParticleModuleEventsToSendToGame"
+msgid "Particle Module Events to Send to Game"
+msgstr "ゲームに送るパーティクルモジュールイベント"
+
+#. Key:	ParticleModuleLocationPrimitiveBase:SurfaceOnly
+#. SourceLocation:	From metadata for key DisplayName of member SurfaceOnly in ParticleModuleLocationPrimitiveBase
+msgctxt "UObjectDisplayNames,ParticleModuleLocationPrimitiveBase:SurfaceOnly"
+msgid "Surface Only"
+msgstr "サーフェスオンリー"
+
+#. Key:	ParticleModuleTypeDataMesh:MeshAlignment
+#. SourceLocation:	From metadata for key DisplayName of member MeshAlignment in ParticleModuleTypeDataMesh
+msgctxt "UObjectDisplayNames,ParticleModuleTypeDataMesh:MeshAlignment"
+msgid "Mesh Alignment"
+msgstr "メッシュ整列"
+
+#. Key:	PawnActionsComponent:ActionEvents
+#. SourceLocation:	From metadata for key DisplayName of member ActionEvents in PawnActionsComponent
+msgctxt "UObjectDisplayNames,PawnActionsComponent:ActionEvents"
+msgid "Action Events"
+msgstr "アクションイベント"
+
+#. Key:	PhysicalAnimationComponent:SkeletalMeshComponent
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshComponent in PhysicalAnimationComponent
+msgctxt "UObjectDisplayNames,PhysicalAnimationComponent:SkeletalMeshComponent"
+msgid "Skeletal Mesh Component"
+msgstr "スケルタルメッシュコンポーネント"
+
+#. Key:	SkeletalMeshActor:SkeletalMeshComponent
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshComponent in SkeletalMeshActor
+msgctxt "UObjectDisplayNames,SkeletalMeshActor:SkeletalMeshComponent"
+msgid "Skeletal Mesh Component"
+msgstr "スケルタルメッシュコンポーネント"
+
+#. Key:	SkeletalMeshComponent
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshComponent in None
+msgctxt "UObjectDisplayNames,SkeletalMeshComponent"
+msgid "Skeletal Mesh Component"
+msgstr "スケルタルメッシュコンポーネント"
+
+#. Key:	PhysicalMaterial
+#. SourceLocation:	From metadata for key DisplayName of member PhysicalMaterial in None
+msgctxt "UObjectDisplayNames,PhysicalMaterial"
+msgid "Physical Material"
+msgstr "物理マテリアル"
+
+#. Key:	PhysicalMaterial:SurfaceType
+#. SourceLocation:	From metadata for key DisplayName of member SurfaceType in PhysicalMaterial
+msgctxt "UObjectDisplayNames,PhysicalMaterial:SurfaceType"
+msgid "Surface Type"
+msgstr "サーフェスタイプ"
+
+#. Key:	PhysicalSurfaceName
+#. SourceLocation:	From metadata for key DisplayName of member PhysicalSurfaceName in None
+msgctxt "UObjectDisplayNames,PhysicalSurfaceName"
+msgid "Physical Surface Name"
+msgstr "フィジカルサーフェスネーム"
+
+#. Key:	PhysicsSettings:PhysicalSurfaces
+#. SourceLocation:	From metadata for key DisplayName of member PhysicalSurfaces in PhysicsSettings
+msgctxt "UObjectDisplayNames,PhysicsSettings:PhysicalSurfaces"
+msgid "Physical Surfaces"
+msgstr "フィジカルサーフェス"
+
+#. Key:	PhysicsVolume
+#. SourceLocation:	From metadata for key DisplayName of member PhysicsVolume in None
+msgctxt "UObjectDisplayNames,PhysicsVolume"
+msgid "Physics Volume"
+msgstr "フィジックス ボリューム"
+
+#. Key:	SceneComponent:PhysicsVolume
+#. SourceLocation:	From metadata for key DisplayName of member PhysicsVolume in SceneComponent
+msgctxt "UObjectDisplayNames,SceneComponent:PhysicsVolume"
+msgid "Physics Volume"
+msgstr "フィジックス ボリューム"
+
+#. Key:	PlatformEventsComponent
+#. SourceLocation:	From metadata for key DisplayName of member PlatformEventsComponent in None
+msgctxt "UObjectDisplayNames,PlatformEventsComponent"
+msgid "Platform Events Component"
+msgstr "プラットフォームイベントコンポーネント"
+
+#. Key:	Player:PlayerController
+#. SourceLocation:	From metadata for key DisplayName of member PlayerController in Player
+msgctxt "UObjectDisplayNames,Player:PlayerController"
+msgid "Player Controller"
+msgstr "プレイヤーコントローラー"
+
+#. Key:	PlayerController
+#. SourceLocation:	From metadata for key DisplayName of member PlayerController in None
+msgctxt "UObjectDisplayNames,PlayerController"
+msgid "Player Controller"
+msgstr "プレイヤーコントローラー"
+
+#. Key:	PlayerCameraManager:PostProcessBlendCache
+#. SourceLocation:	From metadata for key DisplayName of member PostProcessBlendCache in PlayerCameraManager
+msgctxt "UObjectDisplayNames,PlayerCameraManager:PostProcessBlendCache"
+msgid "Post Process Blend Cache"
+msgstr "ポストプロセスブレンドキャッシュ"
+
+#. Key:	PlayerController:bEnableClickEvents
+#. SourceLocation:	From metadata for key DisplayName of member bEnableClickEvents in PlayerController
+msgctxt "UObjectDisplayNames,PlayerController:bEnableClickEvents"
+msgid "Enable Click Events"
+msgstr "クリックイベントを有効"
+
+#. Key:	PlayerController:bEnableMouseOverEvents
+#. SourceLocation:	From metadata for key DisplayName of member bEnableMouseOverEvents in PlayerController
+msgctxt "UObjectDisplayNames,PlayerController:bEnableMouseOverEvents"
+msgid "Enable Mouse Over Events"
+msgstr "マウスオーバーイベントを有効"
+
+#. Key:	PlayerController:bEnableTouchEvents
+#. SourceLocation:	From metadata for key DisplayName of member bEnableTouchEvents in PlayerController
+msgctxt "UObjectDisplayNames,PlayerController:bEnableTouchEvents"
+msgid "Enable Touch Events"
+msgstr "タッチイベントを有効"
+
+#. Key:	PlayerController:bEnableTouchOverEvents
+#. SourceLocation:	From metadata for key DisplayName of member bEnableTouchOverEvents in PlayerController
+msgctxt "UObjectDisplayNames,PlayerController:bEnableTouchOverEvents"
+msgid "Enable Touch Over Events"
+msgstr "タッチオーバーイベントを有効"
+
+#. Key:	PlayerController:ClientReturnToMainMenu
+#. SourceLocation:	From metadata for key DisplayName of member ClientReturnToMainMenu in PlayerController
+msgctxt "UObjectDisplayNames,PlayerController:ClientReturnToMainMenu"
+msgid "Client Return to Main Menu"
+msgstr "メインメニュへクライアントリターン"
+
+#. Key:	PlayerController:SetVirtualJoystickVisibility
+#. SourceLocation:	From metadata for key DisplayName of member SetVirtualJoystickVisibility in PlayerController
+msgctxt "UObjectDisplayNames,PlayerController:SetVirtualJoystickVisibility"
+msgid "Set Virtual Joystick Visibility"
+msgstr "バーチャルジョイスティックを表示"
+
+#. Key:	PostProcessComponent
+#. SourceLocation:	From metadata for key DisplayName of member PostProcessComponent in None
+msgctxt "UObjectDisplayNames,PostProcessComponent"
+msgid "Post Process Component"
+msgstr "ポストプロセスコンポーネント"
+
+#. Key:	PostProcessSettings:AmbientOcclusionStaticFraction
+#. SourceLocation:	From metadata for key DisplayName of member AmbientOcclusionStaticFraction in PostProcessSettings
+msgctxt "UObjectDisplayNames,PostProcessSettings:AmbientOcclusionStaticFraction"
+msgid "Static Fraction"
+msgstr "スタティック フラクション"
+
+#. Key:	PostProcessSettings:bOverride_AmbientOcclusionStaticFraction
+#. SourceLocation:	From metadata for key DisplayName of member bOverride_AmbientOcclusionStaticFraction in PostProcessSettings
+msgctxt "UObjectDisplayNames,PostProcessSettings:bOverride_AmbientOcclusionStaticFraction"
+msgid "Override Ambient Occlusion Static Fraction"
+msgstr "アンビエントオクルージョン スタティックフラクションを上書き"
+
+#. Key:	PostProcessSettings:bOverride_ScreenPercentage
+#. SourceLocation:	From metadata for key DisplayName of member bOverride_ScreenPercentage in PostProcessSettings
+msgctxt "UObjectDisplayNames,PostProcessSettings:bOverride_ScreenPercentage"
+msgid "Override Screen Percentage"
+msgstr "スクリーンパーセンテージを上書き"
+
+#. Key:	PostProcessVolume
+#. SourceLocation:	From metadata for key DisplayName of member PostProcessVolume in None
+msgctxt "UObjectDisplayNames,PostProcessVolume"
+msgid "Post Process Volume"
+msgstr "ポスト プロセス ボリューム"
+
+#. Key:	PrecomputedVisibilityOverrideVolume
+#. SourceLocation:	From metadata for key DisplayName of member PrecomputedVisibilityOverrideVolume in None
+msgctxt "UObjectDisplayNames,PrecomputedVisibilityOverrideVolume"
+msgid "Precomputed Visibility Override Volume"
+msgstr "プレコンピューテッド ビジビリティ オーバーライド ボリューム"
+
+#. Key:	PrecomputedVisibilityVolume
+#. SourceLocation:	From metadata for key DisplayName of member PrecomputedVisibilityVolume in None
+msgctxt "UObjectDisplayNames,PrecomputedVisibilityVolume"
+msgid "Precomputed Visibility Volume"
+msgstr "プレコンピューテッド ビジビリティ ボリューム"
+
+#. Key:	PreCullTrianglesVolume
+#. SourceLocation:	From metadata for key DisplayName of member PreCullTrianglesVolume in None
+msgctxt "UObjectDisplayNames,PreCullTrianglesVolume"
+msgid "Pre Cull Triangles Volume"
+msgstr "プレ カル トライアングル ボリューム"
+
+#. Key:	PrimitiveComponent:bCastVolumetricTranslucentShadow
+#. SourceLocation:	From metadata for key DisplayName of member bCastVolumetricTranslucentShadow in PrimitiveComponent
+msgctxt "UObjectDisplayNames,PrimitiveComponent:bCastVolumetricTranslucentShadow"
+msgid "Volumetric Translucent Shadow"
+msgstr "ボリューメトリック トランスルーセント シャドウ"
+
+#. Key:	PrimitiveComponent:bLightAsIfStatic
+#. SourceLocation:	From metadata for key DisplayName of member bLightAsIfStatic in PrimitiveComponent
+msgctxt "UObjectDisplayNames,PrimitiveComponent:bLightAsIfStatic"
+msgid "Light as if Static"
+msgstr "ライトをスタティックとする"
+
+#. Key:	PrimitiveComponent:CanCharacterStepUpOn
+#. SourceLocation:	From metadata for key DisplayName of member CanCharacterStepUpOn in PrimitiveComponent
+msgctxt "UObjectDisplayNames,PrimitiveComponent:CanCharacterStepUpOn"
+msgid "Can Character Step Up On"
+msgstr "キャラクターが乗ることが出来るもの"
+
+#. Key:	PrimitiveComponent:SetCastShadow
+#. SourceLocation:	From metadata for key DisplayName of member SetCastShadow in PrimitiveComponent
+msgctxt "UObjectDisplayNames,PrimitiveComponent:SetCastShadow"
+msgid "Set Cast Shadow"
+msgstr "キャストシャドウをつける"
+
+#. Key:	PrimitiveComponent:SetTranslucentSortPriority
+#. SourceLocation:	From metadata for key DisplayName of member SetTranslucentSortPriority in PrimitiveComponent
+msgctxt "UObjectDisplayNames,PrimitiveComponent:SetTranslucentSortPriority"
+msgid "Set Translucent Sort Priority"
+msgstr "トランスルーセント 並べ替え 優先度"
+
+#. Key:	PropertyEditorTestObject:bEditCondition
+#. SourceLocation:	From metadata for key DisplayName of member bEditCondition in PropertyEditorTestObject
+msgctxt "UObjectDisplayNames,PropertyEditorTestObject:bEditCondition"
+msgid "Edit Condition"
+msgstr "条件を編集"
+
+#. Key:	PropertyEditorTestObject:StaticMeshProp
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshProp in PropertyEditorTestObject
+msgctxt "UObjectDisplayNames,PropertyEditorTestObject:StaticMeshProp"
+msgid "Static Mesh Prop"
+msgstr "スタティックメッシュ プロップ"
+
+#. Key:	ReflectionCapture
+#. SourceLocation:	From metadata for key DisplayName of member ReflectionCapture in None
+msgctxt "UObjectDisplayNames,ReflectionCapture"
+msgid "Reflection Capture"
+msgstr "リフレクションキャプチャ"
+
+#. Key:	RendererSettings:bAllowStaticLighting
+#. SourceLocation:	From metadata for key DisplayName of member bAllowStaticLighting in RendererSettings
+msgctxt "UObjectDisplayNames,RendererSettings:bAllowStaticLighting"
+msgid "Allow Static Lighting"
+msgstr "スタティックライティングを許可"
+
+#. Key:	RendererSettings:bDefaultFeatureAmbientOcclusionStaticFraction
+#. SourceLocation:	From metadata for key DisplayName of member bDefaultFeatureAmbientOcclusionStaticFraction in RendererSettings
+msgctxt "UObjectDisplayNames,RendererSettings:bDefaultFeatureAmbientOcclusionStaticFraction"
+msgid "Ambient Occlusion Static Fraction (AO for baked lighting)"
+msgstr "アンビエントオクルージョン スタティックフラクション (ベイクされたライティングのためのAO)"
+
+#. Key:	RendererSettings:bUseNormalMapsForStaticLighting
+#. SourceLocation:	From metadata for key DisplayName of member bUseNormalMapsForStaticLighting in RendererSettings
+msgctxt "UObjectDisplayNames,RendererSettings:bUseNormalMapsForStaticLighting"
+msgid "Use Normal Maps for Static Lighting"
+msgstr "スタティックライティングにノーマルマップを使用"
+
+#. Key:	RendererSettings:TranslucentSortAxis
+#. SourceLocation:	From metadata for key DisplayName of member TranslucentSortAxis in RendererSettings
+msgctxt "UObjectDisplayNames,RendererSettings:TranslucentSortAxis"
+msgid "Translucent Sort Axis"
+msgstr "トランスルーセント 並べ替えアクシス"
+
+#. Key:	RendererSettings:TranslucentSortPolicy
+#. SourceLocation:	From metadata for key DisplayName of member TranslucentSortPolicy in RendererSettings
+msgctxt "UObjectDisplayNames,RendererSettings:TranslucentSortPolicy"
+msgid "Translucent Sort Policy"
+msgstr "トランスルーセント 並べ替えポリシー"
+
+#. Key:	RigTransformConstraint:Weight
+#. SourceLocation:	From metadata for key DisplayName of member Weight in RigTransformConstraint
+msgctxt "UObjectDisplayNames,RigTransformConstraint:Weight"
+msgid "Weight"
+msgstr "ウェイト"
+
+#. Key:	SlotEvaluationPose:Weight
+#. SourceLocation:	From metadata for key DisplayName of member Weight in SlotEvaluationPose
+msgctxt "UObjectDisplayNames,SlotEvaluationPose:Weight"
+msgid "Weight"
+msgstr "ウェイト"
+
+#. Key:	WeightedBlendable:Weight
+#. SourceLocation:	From metadata for key DisplayName of member Weight in WeightedBlendable
+msgctxt "UObjectDisplayNames,WeightedBlendable:Weight"
+msgid "Weight"
+msgstr "ウェイト"
+
+#. Key:	SkeletalMeshActor
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshActor in None
+msgctxt "UObjectDisplayNames,SkeletalMeshActor"
+msgid "Skeletal Mesh Actor"
+msgstr "スケルタルメッシュアクタ"
+
+#. Key:	SkeletalMeshExporterFBX
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshExporterFBX in None
+msgctxt "UObjectDisplayNames,SkeletalMeshExporterFBX"
+msgid "Skeletal Mesh Exporter FBX"
+msgstr "スケルタルメッシュエクスポーターFBX"
+
+#. Key:	SkeletalMeshOptimizationSettings
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshOptimizationSettings in None
+msgctxt "UObjectDisplayNames,SkeletalMeshOptimizationSettings"
+msgid "Skeletal Mesh Optimization Settings"
+msgstr "スケルタルメッシュ最適化設定"
+
+#. Key:	SkeletalMeshOptimizationType
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshOptimizationType in None
+msgctxt "UObjectDisplayNames,SkeletalMeshOptimizationType"
+msgid "Skeletal Mesh Optimization Type"
+msgstr "スケルタルメッシュ最適化タイプ"
+
+#. Key:	SkeletalMeshSocket
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshSocket in None
+msgctxt "UObjectDisplayNames,SkeletalMeshSocket"
+msgid "Skeletal Mesh Socket"
+msgstr "スケルタルメッシュソケット"
+
+#. Key:	SkeletalMeshThumbnailRenderer
+#. SourceLocation:	From metadata for key DisplayName of member SkeletalMeshThumbnailRenderer in None
+msgctxt "UObjectDisplayNames,SkeletalMeshThumbnailRenderer"
+msgid "Skeletal Mesh Thumbnail Renderer"
+msgstr "スケルタルメッシュサムネイルレンダラ"
+
+#. Key:	SlotEvaluationPose:AdditiveType
+#. SourceLocation:	From metadata for key DisplayName of member AdditiveType in SlotEvaluationPose
+msgctxt "UObjectDisplayNames,SlotEvaluationPose:AdditiveType"
+msgid "Additive Type"
+msgstr "加算タイプ"
+
+#. Key:	SphereReflectionCaptureComponent:InfluenceRadius
+#. SourceLocation:	From metadata for key DisplayName of member InfluenceRadius in SphereReflectionCaptureComponent
+msgctxt "UObjectDisplayNames,SphereReflectionCaptureComponent:InfluenceRadius"
+msgid "Influence Radius"
+msgstr "影響半径"
+
+#. Key:	StaticMeshActor
+#. SourceLocation:	From metadata for key DisplayName of member StaticMeshActor in None
+msgctxt "UObjectDisplayNames,StaticMeshActor"
+msgid "Static Mesh Actor"
+msgstr "スタティックメッシュアクタ"
+
+#. Key:	StaticMeshActor:bStaticMeshReplicateMovement
+#. SourceLocation:	From metadata for key DisplayName of member bStaticMeshReplicateMovement in StaticMeshActor
+msgctxt "UObjectDisplayNames,StaticMeshActor:bStaticMeshReplicateMovement"
+msgid "Static Mesh Replicate Movement"
+msgstr "スタティックメッシュ リプリケート ムーブメント"
+
+#. Key:	StaticMeshComponent:OverriddenLightMapRes
+#. SourceLocation:	From metadata for key DisplayName of member OverriddenLightMapRes in StaticMeshComponent
+msgctxt "UObjectDisplayNames,StaticMeshComponent:OverriddenLightMapRes"
+msgid "Overridden Light Map Res"
+msgstr "優先ライトマップ解像度"
+
+#. Key:	SubsurfaceProfileFactory
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceProfileFactory in None
+msgctxt "UObjectDisplayNames,SubsurfaceProfileFactory"
+msgid "Subsurface Profile Factory"
+msgstr "サブサーフェスプロファイルファクトリー"
+
+#. Key:	SubsurfaceProfileRenderer
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceProfileRenderer in None
+msgctxt "UObjectDisplayNames,SubsurfaceProfileRenderer"
+msgid "Subsurface Profile Renderer"
+msgstr "サブサーフェスプロファイルレンダラー"
+
+#. Key:	SubsurfaceProfileStruct
+#. SourceLocation:	From metadata for key DisplayName of member SubsurfaceProfileStruct in None
+msgctxt "UObjectDisplayNames,SubsurfaceProfileStruct"
+msgid "Subsurface Profile Struct"
+msgstr "サブサーフェスプロファイルストラクチャー"
+
+#. Key:	TextureFactory:bAlphaToEmissive
+#. SourceLocation:	From metadata for key DisplayName of member bAlphaToEmissive in TextureFactory
+msgctxt "UObjectDisplayNames,TextureFactory:bAlphaToEmissive"
+msgid "Alpha to Emissive"
+msgstr "アルファからエミッシブ"
+
+#. Key:	TextureFactory:bRGBToEmissive
+#. SourceLocation:	From metadata for key DisplayName of member bRGBToEmissive in TextureFactory
+msgctxt "UObjectDisplayNames,TextureFactory:bRGBToEmissive"
+msgid "RGBTo Emissive"
+msgstr "RGBからエミッシブ"
+
+#. Key:	TextureGroup.TEXTUREGROUP_Weapon
+#. SourceLocation:	From metadata for key DisplayName of enum value TEXTUREGROUP_Weapon of enum TextureGroup in None
+msgctxt "UObjectDisplayNames,TextureGroup.TEXTUREGROUP_Weapon"
+msgid "Weapon"
+msgstr "ウェポン"
+
+#. Key:	TextureGroup.TEXTUREGROUP_WeaponNormalMap
+#. SourceLocation:	From metadata for key DisplayName of enum value TEXTUREGROUP_WeaponNormalMap of enum TextureGroup in None
+msgctxt "UObjectDisplayNames,TextureGroup.TEXTUREGROUP_WeaponNormalMap"
+msgid "WeaponNormalMap"
+msgstr "ウェポンノーマルマップ"
+
+#. Key:	TextureGroup.TEXTUREGROUP_WeaponSpecular
+#. SourceLocation:	From metadata for key DisplayName of enum value TEXTUREGROUP_WeaponSpecular of enum TextureGroup in None
+msgctxt "UObjectDisplayNames,TextureGroup.TEXTUREGROUP_WeaponSpecular"
+msgid "WeaponSpecular"
+msgstr "ウェポンスペキュラー"
+
+#. Key:	TickFunction:bAllowTickOnDedicatedServer
+#. SourceLocation:	From metadata for key DisplayName of member bAllowTickOnDedicatedServer in TickFunction
+msgctxt "UObjectDisplayNames,TickFunction:bAllowTickOnDedicatedServer"
+msgid "Allow Tick on Dedicated Server"
+msgstr "専用サーバ上でのティックを許可する"
+
+#. Key:	TickFunction:bStartWithTickEnabled
+#. SourceLocation:	From metadata for key DisplayName of member bStartWithTickEnabled in TickFunction
+msgctxt "UObjectDisplayNames,TickFunction:bStartWithTickEnabled"
+msgid "Start with Tick Enabled"
+msgstr "ティックを有効にしてスタート"
+
+#. Key:	TickFunction:bTickEvenWhenPaused
+#. SourceLocation:	From metadata for key DisplayName of member bTickEvenWhenPaused in TickFunction
+msgctxt "UObjectDisplayNames,TickFunction:bTickEvenWhenPaused"
+msgid "Tick Even when Paused"
+msgstr "ポーズ中でもティックする"
+
+#. Key:	TickFunction:TickGroup
+#. SourceLocation:	From metadata for key DisplayName of member TickGroup in TickFunction
+msgctxt "UObjectDisplayNames,TickFunction:TickGroup"
+msgid "Tick Group"
+msgstr "ティック グループ"
+
+#. Key:	TickFunction:TickInterval
+#. SourceLocation:	From metadata for key DisplayName of member TickInterval in TickFunction
+msgctxt "UObjectDisplayNames,TickFunction:TickInterval"
+msgid "Tick Interval (secs)"
+msgstr "ティック インターバル（秒）"
+
+#. Key:	TouchInterface:Controls
+#. SourceLocation:	From metadata for key DisplayName of member Controls in TouchInterface
+msgctxt "UObjectDisplayNames,TouchInterface:Controls"
+msgid "Controls"
+msgstr "制御"
+
+#. Key:	TriggerCapsule
+#. SourceLocation:	From metadata for key DisplayName of member TriggerCapsule in None
+msgctxt "UObjectDisplayNames,TriggerCapsule"
+msgid "Trigger Capsule"
+msgstr "トリガーカプセル"
+
+#. Key:	TriggerVolume
+#. SourceLocation:	From metadata for key DisplayName of member TriggerVolume in None
+msgctxt "UObjectDisplayNames,TriggerVolume"
+msgid "Trigger Volume"
+msgstr "トリガー ボリューム"
+
+#. Key:	WidgetComponent:MaskedMaterial
+#. SourceLocation:	From metadata for key DisplayName of member MaskedMaterial in WidgetComponent
+msgctxt "UObjectDisplayNames,WidgetComponent:MaskedMaterial"
+msgid "Masked Material"
+msgstr "マスクドマテリアル"
+
+#. Key:	WidgetComponent:MaskedMaterial_OneSided
+#. SourceLocation:	From metadata for key DisplayName of member MaskedMaterial_OneSided in WidgetComponent
+msgctxt "UObjectDisplayNames,WidgetComponent:MaskedMaterial_OneSided"
+msgid "Masked Material One Sided"
+msgstr "マスクドマテリアル片面"
+
+#. Key:	WidgetComponent:OpaqueMaterial
+#. SourceLocation:	From metadata for key DisplayName of member OpaqueMaterial in WidgetComponent
+msgctxt "UObjectDisplayNames,WidgetComponent:OpaqueMaterial"
+msgid "Opaque Material"
+msgstr "オペイクマテリアル"
+
+#. Key:	WidgetComponent:OpaqueMaterial_OneSided
+#. SourceLocation:	From metadata for key DisplayName of member OpaqueMaterial_OneSided in WidgetComponent
+msgctxt "UObjectDisplayNames,WidgetComponent:OpaqueMaterial_OneSided"
+msgid "Opaque Material One Sided"
+msgstr "オペイクマテリアル 片面"
+
+#. Key:	WidgetComponent:TranslucentMaterial
+#. SourceLocation:	From metadata for key DisplayName of member TranslucentMaterial in WidgetComponent
+msgctxt "UObjectDisplayNames,WidgetComponent:TranslucentMaterial"
+msgid "Translucent Material"
+msgstr "トランスルーセント マテリアル"
+
+#. Key:	WidgetComponent:TranslucentMaterial_OneSided
+#. SourceLocation:	From metadata for key DisplayName of member TranslucentMaterial_OneSided in WidgetComponent
+msgctxt "UObjectDisplayNames,WidgetComponent:TranslucentMaterial_OneSided"
+msgid "Translucent Material One Sided"
+msgstr "トランスルーセント マテリアル 片面"
+

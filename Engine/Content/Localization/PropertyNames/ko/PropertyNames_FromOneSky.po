@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-01-06 13:59+0000\n"
+"PO-Revision-Date: 2017-01-06 13:59+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	AITestSpawnInfo:BehaviorTree
+#. SourceLocation:	From metadata for key DisplayName of member BehaviorTree in AITestSpawnInfo
+msgctxt "UObjectDisplayNames,AITestSpawnInfo:BehaviorTree"
+msgid "Behavior Tree"
+msgstr "비헤이비어 트리"
+
+#. Key:	BehaviorTree
+#. SourceLocation:	From metadata for key DisplayName of member BehaviorTree in None
+msgctxt "UObjectDisplayNames,BehaviorTree"
+msgid "Behavior Tree"
+msgstr "비헤이비어 트리"
+
+#. Key:	EAIDebugDrawDataView.BehaviorTree
+#. SourceLocation:	From metadata for key DisplayName of enum value BehaviorTree of enum EAIDebugDrawDataView in None
+msgctxt "UObjectDisplayNames,EAIDebugDrawDataView.BehaviorTree"
+msgid "Behavior Tree"
+msgstr "비헤이비어 트리"
+
+#. Key:	GameplayDebuggerSettings:BehaviorTree
+#. SourceLocation:	From metadata for key DisplayName of member BehaviorTree in GameplayDebuggerSettings
+msgctxt "UObjectDisplayNames,GameplayDebuggerSettings:BehaviorTree"
+msgid "Behavior Tree"
+msgstr "비헤이비어 트리"
+
+#. Key:	GameplayDebuggingReplicator:BehaviorTree
+#. SourceLocation:	From metadata for key DisplayName of member BehaviorTree in GameplayDebuggingReplicator
+msgctxt "UObjectDisplayNames,GameplayDebuggingReplicator:BehaviorTree"
+msgid "Behavior Tree"
+msgstr "비헤이비어 트리"
+
+#. Key:	AnimationSettings
+#. SourceLocation:	From metadata for key DisplayName of member AnimationSettings in None
+msgctxt "UObjectDisplayNames,AnimationSettings"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	BlendSample:Animation
+#. SourceLocation:	From metadata for key DisplayName of member Animation in BlendSample
+msgctxt "UObjectDisplayNames,BlendSample:Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	BlendSampleData:Animation
+#. SourceLocation:	From metadata for key DisplayName of member Animation in BlendSampleData
+msgctxt "UObjectDisplayNames,BlendSampleData:Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	BuildPromotionImportWorkflowSettings:Animation
+#. SourceLocation:	From metadata for key DisplayName of member Animation in BuildPromotionImportWorkflowSettings
+msgctxt "UObjectDisplayNames,BuildPromotionImportWorkflowSettings:Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	EAILockSource.Animation
+#. SourceLocation:	From metadata for key DisplayName of enum value Animation of enum EAILockSource in None
+msgctxt "UObjectDisplayNames,EAILockSource.Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	EBoneTranslationRetargetingMode.Animation
+#. SourceLocation:	From metadata for key DisplayName of enum value Animation of enum EBoneTranslationRetargetingMode in None
+msgctxt "UObjectDisplayNames,EBoneTranslationRetargetingMode.Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	EFBXImportType.FBXIT_Animation
+#. SourceLocation:	From metadata for key DisplayName of enum value FBXIT_Animation of enum EFBXImportType in None
+msgctxt "UObjectDisplayNames,EFBXImportType.FBXIT_Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	ParticleModuleSubUV:Animation
+#. SourceLocation:	From metadata for key DisplayName of member Animation in ParticleModuleSubUV
+msgctxt "UObjectDisplayNames,ParticleModuleSubUV:Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	UMGSequencePlayer:Animation
+#. SourceLocation:	From metadata for key DisplayName of member Animation in UMGSequencePlayer
+msgctxt "UObjectDisplayNames,UMGSequencePlayer:Animation"
+msgid "Animation"
+msgstr "애니메이션"
+
+#. Key:	AutomationTestSettings
+#. SourceLocation:	From metadata for key DisplayName of member AutomationTestSettings in None
+msgctxt "UObjectDisplayNames,AutomationTestSettings"
+msgid "Automation Test Settings"
+msgstr "자동화 테스트맵"
+
+#. Key:	AutomationTestSettings:BuildPromotionTest
+#. SourceLocation:	From metadata for key DisplayName of member BuildPromotionTest in AutomationTestSettings
+msgctxt "UObjectDisplayNames,AutomationTestSettings:BuildPromotionTest"
+msgid "Build Promotion Test"
+msgstr "빌드 승격 테스트"
+
+#. Key:	BuildPromotionImportWorkflowSettings:BlendShapeMesh
+#. SourceLocation:	From metadata for key DisplayName of member BlendShapeMesh in BuildPromotionImportWorkflowSettings
+msgctxt "UObjectDisplayNames,BuildPromotionImportWorkflowSettings:BlendShapeMesh"
+msgid "Blend Shape Mesh"
+msgstr "블렌드 셰이프 메시"
+
+#. Key:	BuildPromotionOpenAssetSettings:BlueprintAsset
+#. SourceLocation:	From metadata for key DisplayName of member BlueprintAsset in BuildPromotionOpenAssetSettings
+msgctxt "UObjectDisplayNames,BuildPromotionOpenAssetSettings:BlueprintAsset"
+msgid "Blueprint Asset"
+msgstr "블루프린트 애셋"
+
+#. Key:	CameraRig_Crane
+#. SourceLocation:	From metadata for key DisplayName of member CameraRig_Crane in None
+msgctxt "UObjectDisplayNames,CameraRig_Crane"
+msgid "Camera Rig Crane"
+msgstr "카메라 릭 크레인"
+
+#. Key:	CameraRig_Rail
+#. SourceLocation:	From metadata for key DisplayName of member CameraRig_Rail in None
+msgctxt "UObjectDisplayNames,CameraRig_Rail"
+msgid "Camera Rig Rail"
+msgstr "카메라 릭 레일"
+
+#. Key:	CineCameraActor
+#. SourceLocation:	From metadata for key DisplayName of member CineCameraActor in None
+msgctxt "UObjectDisplayNames,CineCameraActor"
+msgid "Cine Camera Actor"
+msgstr "시네 카메라 액터"
+
+#. Key:	EAIDebugDrawDataView.Basic
+#. SourceLocation:	From metadata for key DisplayName of enum value Basic of enum EAIDebugDrawDataView in None
+msgctxt "UObjectDisplayNames,EAIDebugDrawDataView.Basic"
+msgid "Basic"
+msgstr "기본"
+
+#. Key:	GameplayDebuggerSettings:Basic
+#. SourceLocation:	From metadata for key DisplayName of member Basic in GameplayDebuggerSettings
+msgctxt "UObjectDisplayNames,GameplayDebuggerSettings:Basic"
+msgid "Basic"
+msgstr "기본"
+
+#. Key:	GameplayDebuggingReplicator:Basic
+#. SourceLocation:	From metadata for key DisplayName of member Basic in GameplayDebuggingReplicator
+msgctxt "UObjectDisplayNames,GameplayDebuggingReplicator:Basic"
+msgid "Basic"
+msgstr "기본"
+
+#. Key:	EColorVisionDeficiency.CVD_Achromatopsia
+#. SourceLocation:	From metadata for key DisplayName of enum value CVD_Achromatopsia of enum EColorVisionDeficiency in None
+msgctxt "UObjectDisplayNames,EColorVisionDeficiency.CVD_Achromatopsia"
+msgid "Achromatopsia (Extremely Rare)"
+msgstr "색맹 (매우 희귀)"
+
+#. Key:	EditorExperimentalSettings:bBreakOnExceptions
+#. SourceLocation:	From metadata for key DisplayName of member bBreakOnExceptions in EditorExperimentalSettings
+msgctxt "UObjectDisplayNames,EditorExperimentalSettings:bBreakOnExceptions"
+msgid "Blueprint Break on Exceptions"
+msgstr "예외시 블루프린트 중단"
+
+#. Key:	EditorExperimentalSettings:bContextMenuChunkAssignments
+#. SourceLocation:	From metadata for key DisplayName of member bContextMenuChunkAssignments in EditorExperimentalSettings
+msgctxt "UObjectDisplayNames,EditorExperimentalSettings:bContextMenuChunkAssignments"
+msgid "Allow ChunkID Assignments"
+msgstr "Chunk ID 할당 허용"
+
+#. Key:	EditorLoadingSavingSettings:bAutoCreateAssets
+#. SourceLocation:	From metadata for key DisplayName of member bAutoCreateAssets in EditorLoadingSavingSettings
+msgctxt "UObjectDisplayNames,EditorLoadingSavingSettings:bAutoCreateAssets"
+msgid "Auto Create Assets"
+msgstr "애셋 자동 생성"
+
+#. Key:	EditorLoadingSavingSettings:bAutoDeleteAssets
+#. SourceLocation:	From metadata for key DisplayName of member bAutoDeleteAssets in EditorLoadingSavingSettings
+msgctxt "UObjectDisplayNames,EditorLoadingSavingSettings:bAutoDeleteAssets"
+msgid "Auto Delete Assets"
+msgstr "애셋 자동 삭제"
+
+#. Key:	EditorLoadingSavingSettings:bAutomaticallyCheckoutOnAssetModification
+#. SourceLocation:	From metadata for key DisplayName of member bAutomaticallyCheckoutOnAssetModification in EditorLoadingSavingSettings
+msgctxt "UObjectDisplayNames,EditorLoadingSavingSettings:bAutomaticallyCheckoutOnAssetModification"
+msgid "Automatically Checkout on Asset Modification"
+msgstr "애셋 변경시 자동 체크아웃"
+
+#. Key:	EditorLoadingSavingSettings:bSCCAutoAddNewFiles
+#. SourceLocation:	From metadata for key DisplayName of member bSCCAutoAddNewFiles in EditorLoadingSavingSettings
+msgctxt "UObjectDisplayNames,EditorLoadingSavingSettings:bSCCAutoAddNewFiles"
+msgid "Add New Files when Modified"
+msgstr "변경시 새 파일 추가"
+
+#. Key:	EditorPerProjectUserSettings:bAlwaysGatherBehaviorTreeDebuggerData
+#. SourceLocation:	From metadata for key DisplayName of member bAlwaysGatherBehaviorTreeDebuggerData in EditorPerProjectUserSettings
+msgctxt "UObjectDisplayNames,EditorPerProjectUserSettings:bAlwaysGatherBehaviorTreeDebuggerData"
+msgid "Always Gather Behavior Tree Debugger Data"
+msgstr "항상 비헤이비어 트리 디버거 데이터 수집"
+
+#. Key:	GameplayDebuggerSettings:ActiveEQSIndex
+#. SourceLocation:	From metadata for key DisplayName of member ActiveEQSIndex in GameplayDebuggerSettings
+msgctxt "UObjectDisplayNames,GameplayDebuggerSettings:ActiveEQSIndex"
+msgid "Active EQSIndex"
+msgstr "활성 EQS 인덱스"
+
+#. Key:	GameplayDebuggingReplicator:ActiveEQSIndex
+#. SourceLocation:	From metadata for key DisplayName of member ActiveEQSIndex in GameplayDebuggingReplicator
+msgctxt "UObjectDisplayNames,GameplayDebuggingReplicator:ActiveEQSIndex"
+msgid "Active EQSIndex"
+msgstr "활성 EQS 인덱스"
+
+#. Key:	TextureGroup.TEXTUREGROUP_Cinematic
+#. SourceLocation:	From metadata for key DisplayName of enum value TEXTUREGROUP_Cinematic of enum TextureGroup in None
+msgctxt "UObjectDisplayNames,TextureGroup.TEXTUREGROUP_Cinematic"
+msgid "Cinematic"
+msgstr "시네마틱"
+

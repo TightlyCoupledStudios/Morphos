@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-01-06 14:02+0000\n"
+"PO-Revision-Date: 2017-01-06 14:02+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	Actor:AddTickPrerequisiteActor
+#. SourceLocation:	From metadata for key Keywords of member AddTickPrerequisiteActor in Actor
+msgctxt "UObjectKeywords,Actor:AddTickPrerequisiteActor"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	Actor:AddTickPrerequisiteComponent
+#. SourceLocation:	From metadata for key Keywords of member AddTickPrerequisiteComponent in Actor
+msgctxt "UObjectKeywords,Actor:AddTickPrerequisiteComponent"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	Actor:RemoveTickPrerequisiteActor
+#. SourceLocation:	From metadata for key Keywords of member RemoveTickPrerequisiteActor in Actor
+msgctxt "UObjectKeywords,Actor:RemoveTickPrerequisiteActor"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	Actor:RemoveTickPrerequisiteComponent
+#. SourceLocation:	From metadata for key Keywords of member RemoveTickPrerequisiteComponent in Actor
+msgctxt "UObjectKeywords,Actor:RemoveTickPrerequisiteComponent"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	Actor:SetTickGroup
+#. SourceLocation:	From metadata for key Keywords of member SetTickGroup in Actor
+msgctxt "UObjectKeywords,Actor:SetTickGroup"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	ActorComponent:AddTickPrerequisiteActor
+#. SourceLocation:	From metadata for key Keywords of member AddTickPrerequisiteActor in ActorComponent
+msgctxt "UObjectKeywords,ActorComponent:AddTickPrerequisiteActor"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	ActorComponent:AddTickPrerequisiteComponent
+#. SourceLocation:	From metadata for key Keywords of member AddTickPrerequisiteComponent in ActorComponent
+msgctxt "UObjectKeywords,ActorComponent:AddTickPrerequisiteComponent"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	ActorComponent:RemoveTickPrerequisiteActor
+#. SourceLocation:	From metadata for key Keywords of member RemoveTickPrerequisiteActor in ActorComponent
+msgctxt "UObjectKeywords,ActorComponent:RemoveTickPrerequisiteActor"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	ActorComponent:RemoveTickPrerequisiteComponent
+#. SourceLocation:	From metadata for key Keywords of member RemoveTickPrerequisiteComponent in ActorComponent
+msgctxt "UObjectKeywords,ActorComponent:RemoveTickPrerequisiteComponent"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	ActorComponent:SetTickGroup
+#. SourceLocation:	From metadata for key Keywords of member SetTickGroup in ActorComponent
+msgctxt "UObjectKeywords,ActorComponent:SetTickGroup"
+msgid "dependency"
+msgstr "依存関係"
+
+#. Key:	Actor:GetLifeSpan
+#. SourceLocation:	From metadata for key Keywords of member GetLifeSpan in Actor
+msgctxt "UObjectKeywords,Actor:GetLifeSpan"
+msgid "delete destroy"
+msgstr "削除 破壊"
+
+#. Key:	Actor:SetLifeSpan
+#. SourceLocation:	From metadata for key Keywords of member SetLifeSpan in Actor
+msgctxt "UObjectKeywords,Actor:SetLifeSpan"
+msgid "delete destroy"
+msgstr "削除 破壊"
+
+#. Key:	Actor:K2_AddActorLocalOffset
+#. SourceLocation:	From metadata for key Keywords of member K2_AddActorLocalOffset in Actor
+msgctxt "UObjectKeywords,Actor:K2_AddActorLocalOffset"
+msgid "location position"
+msgstr "位置 場所"
+
+#. Key:	Actor:K2_AddActorWorldOffset
+#. SourceLocation:	From metadata for key Keywords of member K2_AddActorWorldOffset in Actor
+msgctxt "UObjectKeywords,Actor:K2_AddActorWorldOffset"
+msgid "location position"
+msgstr "位置 場所"
+
+#. Key:	SceneComponent:K2_AddLocalOffset
+#. SourceLocation:	From metadata for key Keywords of member K2_AddLocalOffset in SceneComponent
+msgctxt "UObjectKeywords,SceneComponent:K2_AddLocalOffset"
+msgid "location position"
+msgstr "位置 場所"
+
+#. Key:	SceneComponent:K2_AddWorldOffset
+#. SourceLocation:	From metadata for key Keywords of member K2_AddWorldOffset in SceneComponent
+msgctxt "UObjectKeywords,SceneComponent:K2_AddWorldOffset"
+msgid "location position"
+msgstr "位置 場所"
+
+#. Key:	Actor:K2_DestroyActor
+#. SourceLocation:	From metadata for key Keywords of member K2_DestroyActor in Actor
+msgctxt "UObjectKeywords,Actor:K2_DestroyActor"
+msgid "Delete"
+msgstr "削除"
+
+#. Key:	ActorComponent:K2_DestroyComponent
+#. SourceLocation:	From metadata for key Keywords of member K2_DestroyComponent in ActorComponent
+msgctxt "UObjectKeywords,ActorComponent:K2_DestroyComponent"
+msgid "Delete"
+msgstr "削除"
+
+#. Key:	FunctionalTest:RegisterAutoDestroyActor
+#. SourceLocation:	From metadata for key Keywords of member RegisterAutoDestroyActor in FunctionalTest
+msgctxt "UObjectKeywords,FunctionalTest:RegisterAutoDestroyActor"
+msgid "Delete"
+msgstr "削除"
+
+#. Key:	Pawn:DetachFromControllerPendingDestroy
+#. SourceLocation:	From metadata for key Keywords of member DetachFromControllerPendingDestroy in Pawn
+msgctxt "UObjectKeywords,Pawn:DetachFromControllerPendingDestroy"
+msgid "Delete"
+msgstr "削除"
+
+#. Key:	Actor:K2_GetActorLocation
+#. SourceLocation:	From metadata for key Keywords of member K2_GetActorLocation in Actor
+msgctxt "UObjectKeywords,Actor:K2_GetActorLocation"
+msgid "position"
+msgstr "位置"
+
+#. Key:	Actor:K2_SetActorLocation
+#. SourceLocation:	From metadata for key Keywords of member K2_SetActorLocation in Actor
+msgctxt "UObjectKeywords,Actor:K2_SetActorLocation"
+msgid "position"
+msgstr "位置"
+
+#. Key:	KismetMathLibrary:Vector2DInterpTo
+#. SourceLocation:	From metadata for key Keywords of member Vector2DInterpTo in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Vector2DInterpTo"
+msgid "position"
+msgstr "位置"
+
+#. Key:	KismetMathLibrary:Vector2DInterpTo_Constant
+#. SourceLocation:	From metadata for key Keywords of member Vector2DInterpTo_Constant in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Vector2DInterpTo_Constant"
+msgid "position"
+msgstr "位置"
+
+#. Key:	KismetMathLibrary:VInterpTo
+#. SourceLocation:	From metadata for key Keywords of member VInterpTo in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:VInterpTo"
+msgid "position"
+msgstr "位置"
+
+#. Key:	KismetMathLibrary:VInterpTo_Constant
+#. SourceLocation:	From metadata for key Keywords of member VInterpTo_Constant in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:VInterpTo_Constant"
+msgid "position"
+msgstr "位置"
+
+#. Key:	Actor:K2_OnBecomeViewTarget
+#. SourceLocation:	From metadata for key Keywords of member K2_OnBecomeViewTarget in Actor
+msgctxt "UObjectKeywords,Actor:K2_OnBecomeViewTarget"
+msgid "Activate Camera"
+msgstr "カメラを始動"
+
+#. Key:	Actor:K2_OnEndViewTarget
+#. SourceLocation:	From metadata for key Keywords of member K2_OnEndViewTarget in Actor
+msgctxt "UObjectKeywords,Actor:K2_OnEndViewTarget"
+msgid "Deactivate Camera"
+msgstr "カメラを停止"
+
+#. Key:	Actor:K2_TeleportTo
+#. SourceLocation:	From metadata for key Keywords of member K2_TeleportTo in Actor
+msgctxt "UObjectKeywords,Actor:K2_TeleportTo"
+msgid "Move Position"
+msgstr "ポジションを移動する"
+
+#. Key:	Actor:ReceiveDestroyed
+#. SourceLocation:	From metadata for key Keywords of member ReceiveDestroyed in Actor
+msgctxt "UObjectKeywords,Actor:ReceiveDestroyed"
+msgid "delete"
+msgstr "削除"
+
+#. Key:	Actor:ReceiveEndPlay
+#. SourceLocation:	From metadata for key Keywords of member ReceiveEndPlay in Actor
+msgctxt "UObjectKeywords,Actor:ReceiveEndPlay"
+msgid "delete"
+msgstr "削除"
+
+#. Key:	ActorComponent:ReceiveEndPlay
+#. SourceLocation:	From metadata for key Keywords of member ReceiveEndPlay in ActorComponent
+msgctxt "UObjectKeywords,ActorComponent:ReceiveEndPlay"
+msgid "delete"
+msgstr "削除"
+
+#. Key:	Actor:SetActorHiddenInGame
+#. SourceLocation:	From metadata for key Keywords of member SetActorHiddenInGame in Actor
+msgctxt "UObjectKeywords,Actor:SetActorHiddenInGame"
+msgid "Visible Hidden Show Hide"
+msgstr "表示 隠伏 見せる 隠す"
+
+#. Key:	KismetMathLibrary:Divide_ByteByte
+#. SourceLocation:	From metadata for key Keywords of member Divide_ByteByte in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Divide_ByteByte"
+msgid "/ divide division"
+msgstr "Kinpatsu"
+
+#. Key:	KismetMathLibrary:Divide_FloatFloat
+#. SourceLocation:	From metadata for key Keywords of member Divide_FloatFloat in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Divide_FloatFloat"
+msgid "/ divide division"
+msgstr "Kinpatsu"
+
+#. Key:	KismetMathLibrary:Divide_IntInt
+#. SourceLocation:	From metadata for key Keywords of member Divide_IntInt in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Divide_IntInt"
+msgid "/ divide division"
+msgstr "Kinpatsu"
+
+#. Key:	KismetMathLibrary:Divide_Vector2DFloat
+#. SourceLocation:	From metadata for key Keywords of member Divide_Vector2DFloat in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Divide_Vector2DFloat"
+msgid "/ divide division"
+msgstr "Kinpatsu"
+
+#. Key:	KismetMathLibrary:Divide_VectorFloat
+#. SourceLocation:	From metadata for key Keywords of member Divide_VectorFloat in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Divide_VectorFloat"
+msgid "/ divide division"
+msgstr "Kinpatsu"
+
+#. Key:	KismetMathLibrary:Divide_VectorInt
+#. SourceLocation:	From metadata for key Keywords of member Divide_VectorInt in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Divide_VectorInt"
+msgid "/ divide division"
+msgstr "Kinpatsu"
+
+#. Key:	KismetMathLibrary:Divide_VectorVector
+#. SourceLocation:	From metadata for key Keywords of member Divide_VectorVector in KismetMathLibrary
+msgctxt "UObjectKeywords,KismetMathLibrary:Divide_VectorVector"
+msgid "/ divide division"
+msgstr "Kinpatsu"
+
