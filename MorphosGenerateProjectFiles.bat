@@ -1,1 +1,1 @@
-GenerateProjectFiles.bat -project=%~dp0Morphos\Morphos.uproject
+GenerateProjectFiles.bat -CurrentPlatform -Engine -Game -project=%~dp0Morphos\Morphos.uproject
